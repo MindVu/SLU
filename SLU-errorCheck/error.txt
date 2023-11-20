@@ -1,0 +1,82 @@
+-----------------
+train.jsonl:
+
+Suggest slot type:  target number
+['64888b2d629cf7064923aa6a', '64889256629cf70d4d23afb0', '648db5524c840235b33dee2b']
+
+Suggest slot type:  changing value
+['6484978319e0404e6a5e5130', '6489c17a0007500ca79229ee', '648b346860832514f2e95fa2', '648b32fe6083257da4e95cbb', '648f0c98bd5f015517bbc125', '648f1301bd5f0198afbbcc16']
+
+Suggest slot type:  changing value
+['64873bdc1ae676f5b6b68146']
+
+Suggest slot type:  target number
+['648335ebd9f569116241f971', '64873bdc1ae676f5b6b68146', '648c7cbdf73a57268e7d2aa7', '64952f9a5258cc2ddc9ed0ab']
+
+Suggest slot type:  target number
+['6484877b19e04052b75e360d', '648491f719e0400eb45e4831', '6484961419e0402f7f5e4f44', '64888b2d629cf7064923aa6a', '64888c8e629cf720f423abb0', '64889256629cf70d4d23afb0', '648b38526083252ee5e968fe', '648db5524c840235b33dee2b', '648f104fbd5f011fb0bbc78c', '6487418a1ae676d18ab6894a']
+
+Suggest slot type:  changing value
+['6484868a19e0408da95e3481']
+
+Suggest slot type:  changing value
+['648f1f56bd5f01924ebbe44d']
+
+Suggest slot type:  target number
+['648c8f10f73a57baf77d6aff', '648c907ff73a57497f7d6eae', '648f1a05bd5f017187bbda65', '64902eaead5438544c5f0c70']
+
+Suggest slot type:  duration
+['6484919019e040af8b5e4763']
+
+Suggest slot type:  time at
+['648dca184c840240463e1265']
+
+Suggest slot type:  time at
+['6484849919e0402c515e31fb', '64889c68629cf73c7923b6f9']
+
+Suggest slot type:  time at
+['64889c68629cf73c7923b6f9']
+
+Suggest slot type:  time at
+['6484849919e0402c515e31fb']
+
+-----------------
+test.jsonl:
+
+Suggest slot type:  changing value
+['648c803af73a5797297d37f4', '6484757419e0408fc65e2109', '648db1bf4c8402678c3dea03', '648dd8874c8402f4ae3e2a20', '648b1f5060832511d3e92962', '648f0b88bd5f01c440bbbf76', '648c8c0bf73a578b3a7d62d0', '648c7256f73a573cca7d0d65', '648c7f1af73a5735517d3339', '648c7ea3f73a577eff7d31d6']
+
+Suggest slot type:  time at
+['64a834d1a35d0a4d91e9c44c']
+
+Suggest slot type:  duration
+['648f14b1bd5f0194fabbcee2', '648b221a6083259668e93047']
+
+Suggest slot type:  time at
+['648f14b1bd5f0194fabbcee2', '648b221a6083259668e93047']
+
+Suggest slot type:  duration
+['648f0fd6bd5f0176bfbbc67a', '648f10dabd5f01ee7abbc876']
+
+Suggest slot type:  duration
+['648b25af6083255c1ae93a74']
+
+
+-----------------
+dev.jsonl:
+
+Suggest slot type:  changing value
+['6484787619e0407a925e23a3']
+
+Suggest slot type:  changing value
+['648745a01ae6764bf7b68e78', '648de1d74c84023fda3e3eb8']
+
+Suggest slot type:  changing value
+['648c7f22f73a577a9d7d33bd']
+
+Suggest slot type:  duration
+['648f120cbd5f019e0dbbca65']
+
+Suggest slot type:  time at
+['648dc9344c84022b933e1133']
+
