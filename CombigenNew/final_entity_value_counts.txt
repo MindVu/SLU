@@ -1,0 +1,779 @@
+Tra cứu thời tiết:
+timeAt:
+lát nữa: 343
+bây giờ: 327
+<timeAt>: 330
+delay_duration:
+<timeAt>: 333
+lát nữa: 321
+bây giờ: 346
+weather_descriptor:
+bây giờ: 327
+<timeAt>: 337
+lát nữa: 336
+location:
+<duration>: 1000
+weather_timeAt:
+đẹp: 104
+lạnh: 94
+giông: 96
+nhiều mây: 95
+sương mù: 97
+nắng: 92
+mưa: 108
+nồm: 110
+bão: 109
+oi: 95
+weather_duration:
+nồm: 102
+lạnh: 102
+nắng: 85
+mưa: 103
+giông: 95
+bão: 103
+oi: 95
+nhiều mây: 106
+sương mù: 94
+đẹp: 115
+Tra cứu lịch:
+timeAt:
+<timeAt>: 1000
+delay_duration:
+<duration>: 1000
+event_timeAt:
+nấu ăn: 65
+bật phim: 58
+ngủ dậy: 52
+lau nhà: 56
+rửa bát: 51
+đi chơi: 55
+khách tới nhà: 55
+đi ngủ: 54
+xem phim: 57
+đi học: 62
+đi làm: 58
+đi đá bóng: 56
+đi họp: 53
+giặt quần áo: 69
+gửi mail: 60
+đi ăn: 48
+tưới cây: 52
+cắt tóc: 39
+event:
+bật phim: 46
+xem phim: 49
+khách tới nhà: 58
+đi ăn: 59
+đi ngủ: 63
+giặt quần áo: 60
+ngủ dậy: 81
+đi làm: 59
+đi học: 58
+gửi mail: 66
+đi đá bóng: 55
+lau nhà: 51
+đi họp: 56
+đi chơi: 36
+tưới cây: 52
+rửa bát: 48
+nấu ăn: 52
+cắt tóc: 51
+location:
+ngủ dậy: 53
+đi đá bóng: 58
+đi chơi: 62
+rửa bát: 53
+đi họp: 59
+bật phim: 55
+lau nhà: 64
+cắt tóc: 45
+giặt quần áo: 50
+khách tới nhà: 47
+xem phim: 59
+đi ăn: 54
+gửi mail: 59
+nấu ăn: 53
+đi ngủ: 59
+đi làm: 58
+tưới cây: 60
+đi học: 52
+participants:
+đi ăn: 56
+cắt tóc: 61
+rửa bát: 65
+đi làm: 63
+lau nhà: 55
+đi chơi: 53
+khách tới nhà: 60
+tưới cây: 58
+bật phim: 43
+đi họp: 52
+ngủ dậy: 50
+xem phim: 40
+gửi mail: 75
+đi ngủ: 61
+nấu ăn: 48
+giặt quần áo: 54
+đi học: 64
+đi đá bóng: 42
+Bật nhạc:
+timeAt:
+<hour_timeAt>: 1000
+delay_duration:
+<hour_duration>: 1000
+continuous_duration:
+<song_name>: 198
+<album>: 215
+<song_gerne>: 192
+<century_int> s: 204
+<trending>: 191
+song:
+<song_gerne>: 173
+<album>: 221
+<trending>: 228
+<song_name>: 196
+<century_int> s: 182
+singer:
+<trending>: 209
+<century_int> s: 189
+<song_gerne>: 199
+<album>: 190
+<song_name>: 213
+Tra công thức nấu ăn:
+timeAt:
+<timeAt>: 1000
+delay_duration:
+<hour_duration>: 1000
+meal:
+bữa tối: 178
+điểm tâm: 153
+ăn khuya: 175
+bữa lỡ: 177
+bữa trưa: 158
+bữa sáng: 159
+ingredient:
+ăn khuya: 175
+bữa tối: 179
+bữa trưa: 165
+điểm tâm: 140
+bữa lỡ: 173
+bữa sáng: 168
+dish_name:
+bữa sáng: 167
+bữa tối: 165
+bữa lỡ: 166
+bữa trưa: 170
+điểm tâm: 175
+ăn khuya: 157
+cooking_time:
+bữa lỡ: 156
+bữa trưa: 153
+ăn khuya: 157
+bữa sáng: 169
+điểm tâm: 175
+bữa tối: 190
+method:
+bữa trưa: 192
+bữa sáng: 153
+bữa tối: 139
+điểm tâm: 190
+bữa lỡ: 153
+ăn khuya: 173
+condition:
+điểm tâm: 167
+bữa lỡ: 175
+bữa sáng: 184
+ăn khuya: 163
+bữa trưa: 162
+bữa tối: 149
+occasion:
+gà đồi: 52
+thịt lợn: 63
+cá hồi: 91
+hành tây: 62
+mật ong: 72
+cua hoàng đế: 88
+thịt bò: 71
+tôm hùm: 72
+hành lá: 69
+hàu: 68
+trứng cá tầm: 86
+cá ngừ: 59
+salad: 76
+sò điệp: 71
+number_of_servings:
+cá ngừ: 58
+hành lá: 47
+thịt bò: 91
+salad: 70
+trứng cá tầm: 74
+sò điệp: 66
+cua hoàng đế: 85
+hàu: 60
+mật ong: 85
+thịt lợn: 66
+cá hồi: 81
+gà đồi: 77
+hành tây: 71
+tôm hùm: 69
+Đặt lịch:
+timeAt:
+<timeAt>: 1000
+delay_duration:
+<duration>: 1000
+continuous_duration:
+nấu ăn: 54
+đi học: 59
+xem phim: 56
+đi họp: 44
+bật phim: 70
+rửa bát: 57
+khách tới nhà: 50
+dậy: 59
+đi làm: 57
+cắt tóc: 67
+đi ăn: 52
+gửi mail: 49
+lau nhà: 61
+tưới cây: 61
+đi chơi: 54
+giặt quần áo: 58
+đi đá bóng: 52
+đi ngủ: 40
+event:
+gửi mail: 63
+xem phim: 55
+đi làm: 50
+đi ăn: 70
+cắt tóc: 55
+khách tới nhà: 38
+rửa bát: 51
+dậy: 55
+nấu ăn: 58
+bật phim: 54
+đi họp: 53
+đi học: 66
+đi đá bóng: 56
+đi chơi: 58
+lau nhà: 57
+tưới cây: 51
+đi ngủ: 55
+giặt quần áo: 55
+repeat:
+đi ăn: 50
+gửi mail: 55
+đi ngủ: 50
+lau nhà: 67
+đi làm: 61
+đi họp: 55
+tưới cây: 65
+khách tới nhà: 51
+rửa bát: 62
+đi học: 61
+xem phim: 55
+cắt tóc: 41
+nấu ăn: 64
+đi đá bóng: 54
+đi chơi: 56
+giặt quần áo: 44
+bật phim: 51
+dậy: 58
+participants:
+đi học: 46
+đi làm: 57
+đi ăn: 54
+đi đá bóng: 58
+đi chơi: 64
+nấu ăn: 51
+xem phim: 63
+lau nhà: 43
+giặt quần áo: 59
+gửi mail: 54
+khách tới nhà: 57
+dậy: 61
+đi ngủ: 59
+cắt tóc: 58
+bật phim: 50
+rửa bát: 60
+đi họp: 56
+tưới cây: 50
+remind_duration:
+dậy: 61
+khách tới nhà: 50
+đi họp: 51
+lau nhà: 50
+tưới cây: 60
+đi chơi: 51
+rửa bát: 52
+đi ăn: 55
+đi học: 52
+giặt quần áo: 52
+cắt tóc: 65
+xem phim: 54
+nấu ăn: 62
+gửi mail: 62
+đi đá bóng: 54
+bật phim: 65
+đi làm: 58
+đi ngủ: 46
+location:
+khách tới nhà: 66
+đi đá bóng: 62
+đi chơi: 64
+giặt quần áo: 53
+rửa bát: 57
+gửi mail: 67
+nấu ăn: 40
+bật phim: 54
+lau nhà: 71
+đi học: 56
+đi ngủ: 53
+xem phim: 45
+dậy: 59
+cắt tóc: 53
+đi làm: 63
+đi họp: 55
+tưới cây: 33
+đi ăn: 49
+event_timeAt:
+rửa bát: 50
+đi ngủ: 56
+bật phim: 62
+xem phim: 62
+cắt tóc: 54
+đi học: 52
+đi đá bóng: 58
+khách tới nhà: 58
+nấu ăn: 77
+đi chơi: 58
+tưới cây: 42
+đi làm: 55
+lau nhà: 55
+gửi mail: 51
+giặt quần áo: 54
+dậy: 39
+đi ăn: 59
+đi họp: 58
+Gọi taxi:
+timeAt:
+<hour_timeAt>: 1000
+delay_duration:
+<hour_duration>: 1000
+brand:
+Thanh Nga: 82
+ABC: 78
+Xanh SM: 58
+Mai Linh: 64
+Thủ Đô: 72
+Hà Nội Tourist: 76
+Group: 77
+G7: 69
+Vinasun: 87
+Hoàng Hợp: 58
+Long Biên: 65
+Airport Hà Nội: 68
+Vic: 71
+Thăng Long: 75
+pickup_location:
+Group: 70
+G7: 87
+Thăng Long: 69
+Vinasun: 69
+ABC: 71
+Mai Linh: 81
+Long Biên: 72
+Airport Hà Nội: 63
+Vic: 67
+Hoàng Hợp: 67
+Thủ Đô: 65
+Xanh SM: 87
+Hà Nội Tourist: 61
+Thanh Nga: 71
+dropoff_location:
+Thủ Đô: 68
+Group: 77
+Airport Hà Nội: 79
+Hoàng Hợp: 60
+Mai Linh: 79
+G7: 73
+Thanh Nga: 74
+Thăng Long: 78
+Xanh SM: 69
+Vinasun: 57
+Hà Nội Tourist: 81
+Long Biên: 76
+Vic: 57
+ABC: 72
+number_of_passengers:
+Mai Linh: 90
+Vic: 72
+Thủ Đô: 68
+Thanh Nga: 71
+ABC: 57
+Hoàng Hợp: 67
+Xanh SM: 81
+Airport Hà Nội: 69
+Group: 60
+Thăng Long: 79
+Long Biên: 62
+Vinasun: 83
+G7: 65
+Hà Nội Tourist: 76
+type (premium, …):
+Thăng Long: 64
+Vinasun: 63
+Thanh Nga: 79
+Hà Nội Tourist: 84
+Thủ Đô: 67
+Long Biên: 61
+G7: 92
+ABC: 73
+Hoàng Hợp: 72
+Xanh SM: 59
+Airport Hà Nội: 63
+Vic: 70
+Mai Linh: 74
+Group: 79
+tra cứu đường đi:
+timeAt:
+<hour_timeAt>: 1000
+delay_duration:
+<hour_duration>: 1000
+destination:
+<place>: 499
+<address>: 501
+distance:
+<address>: 499
+<place>: 501
+travel_duration:
+<int>km: 1000
+transport_type:
+<duration>: 1000
+Đặt vé:
+timeAt:
+<timeAt>: 1000
+delay_duration:
+<duration>: 1000
+departure_location:
+<province>: 1000
+arrival_location:
+<airport>: 1000
+number_of_passengers:
+8: 73
+14: 60
+9: 63
+15: 51
+7: 57
+3: 57
+1: 55
+11: 68
+2: 75
+4: 50
+5: 66
+13: 67
+10: 76
+6: 53
+12: 71
+16: 58
+payment_method:
+10: 74
+2: 59
+14: 57
+5: 73
+12: 51
+8: 72
+7: 59
+11: 50
+6: 58
+4: 50
+16: 62
+1: 56
+9: 75
+13: 52
+15: 76
+3: 76
+type:
+7: 60
+4: 65
+2: 63
+3: 67
+13: 68
+9: 67
+11: 69
+16: 65
+12: 71
+5: 60
+8: 48
+15: 59
+6: 71
+10: 47
+14: 68
+1: 52
+transport_type:
+5: 50
+11: 60
+2: 76
+16: 67
+10: 50
+15: 59
+6: 62
+13: 63
+3: 68
+7: 60
+12: 70
+8: 67
+4: 56
+1: 70
+9: 61
+14: 61
+departure_timeAt:
+11: 61
+8: 61
+2: 77
+4: 70
+15: 72
+5: 68
+9: 65
+12: 63
+16: 76
+14: 58
+13: 58
+10: 57
+1: 55
+6: 52
+7: 55
+3: 52
+Gợi ý phim:
+timeAt:
+<hour_timeAt>: 198
+chiều ngày <day_int>: 211
+tối ngày <day_int>: 205
+sáng ngày <day_int>: 199
+trưa ngày <day_int>: 187
+delay_duration:
+chiều ngày <day_int>: 198
+trưa ngày <day_int>: 187
+sáng ngày <day_int>: 197
+tối ngày <day_int>: 207
+<hour_timeAt>: 211
+continuous_duration:
+trưa ngày <day_int>: 218
+tối ngày <day_int>: 201
+sáng ngày <day_int>: 216
+chiều ngày <day_int>: 189
+<hour_timeAt>: 176
+actor:
+tối ngày <day_int>: 192
+sáng ngày <day_int>: 187
+<hour_timeAt>: 209
+trưa ngày <day_int>: 205
+chiều ngày <day_int>: 207
+genre:
+sáng ngày <day_int>: 201
+chiều ngày <day_int>: 195
+trưa ngày <day_int>: 203
+<hour_timeAt>: 206
+tối ngày <day_int>: 195
+language:
+<duration>: 1000
+rating:
+<actor>: 1000
+movie_duration:
+viễn tây: 75
+thiếu nhi: 64
+hài: 76
+ca nhạc: 77
+tội phạm: 61
+chiến tranh: 76
+tài liệu: 66
+kinh dị: 61
+tình cảm: 62
+hành động: 72
+lịch sử: 80
+hoạt hình: 46
+siêu anh hùng: 59
+kịch tính: 53
+viễn tưởng: 72
+gợi ý địa điểm:
+timeAt:
+<timeAt>: 1000
+delay_duration:
+<hour_duration>: 1000
+activity:
+dã ngoại: 56
+uống cafe: 51
+đọc sách: 62
+đi chợ: 51
+giải trí: 49
+mua sắm: 58
+ăn uống: 47
+làm việc: 42
+họp nhóm: 70
+vui chơi: 51
+thể thao: 62
+hẹn hò: 57
+bơi lội: 55
+học tập: 74
+ăn cơm: 57
+tập gym: 45
+xem phim: 56
+tự học: 57
+ocassion:
+ăn cơm: 66
+vui chơi: 58
+họp nhóm: 67
+thể thao: 50
+dã ngoại: 68
+bơi lội: 59
+đi chợ: 46
+đọc sách: 60
+làm việc: 58
+tự học: 55
+tập gym: 48
+ăn uống: 47
+hẹn hò: 50
+giải trí: 63
+xem phim: 47
+uống cafe: 46
+học tập: 66
+mua sắm: 46
+area:
+học tập: 60
+hẹn hò: 42
+vui chơi: 62
+tự học: 47
+làm việc: 64
+uống cafe: 55
+họp nhóm: 59
+mua sắm: 58
+thể thao: 62
+ăn cơm: 55
+dã ngoại: 66
+bơi lội: 57
+ăn uống: 56
+xem phim: 41
+giải trí: 55
+tập gym: 50
+đi chợ: 58
+đọc sách: 53
+distance:
+giải trí: 56
+thể thao: 59
+xem phim: 57
+bơi lội: 40
+đi chợ: 64
+đọc sách: 63
+vui chơi: 52
+hẹn hò: 53
+mua sắm: 46
+ăn cơm: 54
+tập gym: 59
+tự học: 62
+ăn uống: 80
+học tập: 48
+làm việc: 64
+họp nhóm: 47
+uống cafe: 45
+dã ngoại: 51
+Xóa lịch:
+timeAt:
+<timeAt>: 1000
+delay_duration:
+<hour_int> tiếng <min_int> phút: 511
+<min_int> phút: 489
+event:
+<min_int> phút: 511
+<hour_int> tiếng <min_int> phút: 489
+event_timeAt:
+đi chơi: 104
+gặp đối tác: 101
+đi dã ngoại: 74
+học tập: 67
+gặp bạn bè: 100
+làm việc: 109
+họp: 97
+ăn uống: 84
+xem phim: 103
+đi cafe: 73
+đi leo núi: 88
+Liên hệ:
+timeAt:
+ngày kia: 247
+ngay bây giờ: 246
+ngày mai: 237
+<timeAt>: 270
+delay_duration:
+ngay bây giờ: 251
+ngày mai: 244
+<timeAt>: 236
+ngày kia: 269
+continuous_duration:
+ngày mai: 254
+ngay bây giờ: 266
+ngày kia: 230
+<timeAt>: 250
+phone_number:
+<timeAt>: 244
+ngày mai: 265
+ngay bây giờ: 237
+ngày kia: 254
+email:
+<duration>: 1000
+person:
+<phone_number>: 1000
+đặt đồ ăn:
+timeAt:
+ngay bây giờ: 334
+ngày mai: 338
+<timeAt>: 328
+delay_duration:
+ngày mai: 325
+<timeAt>: 326
+ngay bây giờ: 349
+dish_name:
+<timeAt>: 346
+ngay bây giờ: 317
+ngày mai: 337
+meal:
+<duration>: 1000
+number_of_serving:
+<dish_name>: 515
+<desert>: 485
+condition:
+<desert>: 515
+<dish_name>: 485
+occasion:
+bữa tối: 166
+bữa sáng: 165
+bữa lỡ: 176
+bữa trưa: 161
+điểm tâm: 166
+ăn khuya: 166
+location:
+bữa sáng: 158
+bữa lỡ: 152
+bữa trưa: 182
+điểm tâm: 170
+ăn khuya: 175
+bữa tối: 163
+Hỏi thông tin:
+timeAt:
+ngay bây giờ: 220
+ngày mai: 253
+ngày kia: 264
+<timeAt>: 263
+delay_duration:
+ngày kia: 243
+<timeAt>: 259
+ngay bây giờ: 255
+ngày mai: 243
+keyword:
+ngày mai: 247
+ngay bây giờ: 275
+ngày kia: 234
+<timeAt>: 244
+keyword_timeAt:
+<timeAt>: 234
+ngày mai: 257
+ngày kia: 259
+ngay bây giờ: 250
