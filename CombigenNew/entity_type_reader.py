@@ -28,19 +28,25 @@ def update_json_with_entity_types(json_data, entity_types):
 
 def get_entity_type(entity, entity_types):
     for col in entity_types.columns:
-        if entity in entity_types[col].values:
-            return col
+        if entity in entity_types[col.strip()].values:
+            return col.strip()
+    print(entity)
     return None
 
 def filling(value):
     if str(value).isdigit():
-        return int(value)
-    placeholders = re.findall(r'\<\s*(.*?)\s*\>', value)
-    if len(placeholders) == 0:
+        return (str(int(value)))
+    try:
+        placeholders = re.findall(r'\<\s*(.*?)\s*\>', value)
+        if len(placeholders) == 0:
+            return value
+        for placeholder in placeholders:
+            value_list = list(annotation_values[f"<{placeholder}>"].dropna())
+            chosen_value = random.choice(value_list)
+            value = re.sub(fr'\<{placeholder}\>', str(chosen_value), value)
+            value = filling(value)
         return value
-    for placeholder in placeholders:
-        value_list = list(annotation_values[f"<{placeholder}>"].dropna())
-        chosen_value = random.choice(value_list)
-        value = re.sub(fr'\<{placeholder}\>', str(chosen_value), value)
-        value = filling(value)
-    return value
+    except:
+
+        # print(str(int(value)))
+        return str(int(value))

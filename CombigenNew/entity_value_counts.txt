@@ -7584,3 +7584,4779 @@ keyword_timeAt - ngày mai: 20
 keyword_timeAt - <timeAt>: 17
 keyword_timeAt - ngày kia: 26
 keyword_timeAt - tháng sau: 23
+Tra cứu thời tiết:
+timeAt - <timeAt>: 49
+timeAt - lát nữa: 36
+timeAt - bây giờ: 49
+delay_duration - <duration>: 128
+weather_descriptor - lạnh: 14
+weather_descriptor - oi: 26
+weather_descriptor - giông: 10
+weather_descriptor - nồm: 13
+weather_descriptor - bão: 10
+weather_descriptor - nắng: 12
+weather_descriptor - sương mù: 10
+weather_descriptor - nhiều mây: 13
+weather_descriptor - mưa: 14
+weather_descriptor - đẹp: 14
+location - <country>: 33
+location - <district>: 36
+location - <province>: 34
+location - <place>: 21
+weather_timeAt - <timeAt>: 35
+weather_timeAt - nửa đêm: 23
+weather_timeAt - cuối <day_timeAt>: 26
+weather_timeAt - cuối tuần: 15
+weather_timeAt - <buổi> <day_timeAt>: 21
+weather_timeAt - cuối tháng: 15
+weather_duration - <duration>: 113
+Tra cứu lịch:
+timeAt - <timeAt>: 122
+delay_duration - <duration>: 126
+event_timeAt - <timeAt>: 129
+event - gửi mail: 14
+event - giặt quần áo: 13
+event - đi ngủ: 18
+event - đi làm: 12
+event - nấu ăn: 11
+event - đi đá bóng: 19
+event - bật phim: 12
+event - lau nhà: 13
+event - tưới cây: 10
+event - đi ăn: 11
+event - đi học: 13
+event - xem phim: 12
+event - ngủ dậy: 13
+event - đi chơi: 11
+event - cắt tóc: 10
+event - đi họp: 19
+event - rửa bát: 18
+event - khách tới nhà: 21
+location - <place>: 129
+participants - đội bóng: 25
+participants - <human_name> và <human_name>: 21
+participants - <human_name>: 22
+participants - lớp: 18
+participants - công ty: 23
+participants - bạn bè: 19
+participants - gia đình: 18
+Bật nhạc:
+timeAt - <hour_timeAt>: 125
+delay_duration - <hour_duration>: 134
+continuous_duration - <hour_duration>: 125
+song - <trending>: 32
+song - <song_name>: 42
+song - <century_int> s: 38
+song - <song_gerne>: 30
+singer - <singer_name>: 142
+Tra công thức nấu ăn:
+timeAt - <timeAt>: 123
+delay_duration - <hour_duration>: 117
+meal - bữa lỡ: 18
+meal - bữa trưa: 17
+meal - ăn khuya: 22
+meal - điểm tâm: 19
+meal - bữa sáng: 16
+meal - bữa tối: 21
+ingredient - trứng cá tầm: 8
+ingredient - sò điệp: 8
+ingredient - hành lá: 10
+ingredient - hành tây: 8
+ingredient - hàu: 8
+ingredient - mật ong: 9
+ingredient - thịt lợn: 10
+ingredient - cá ngừ: 18
+ingredient - salad: 11
+ingredient - gà đồi: 10
+ingredient - cá hồi: 11
+ingredient - tôm hùm: 8
+ingredient - cua hoàng đế: 5
+ingredient - thịt bò: 4
+dish_name - bánh: 17
+dish_name - bít tết: 7
+dish_name - cơm: 14
+dish_name - lasagna: 14
+dish_name - mì ý: 12
+dish_name - súp: 17
+dish_name - bún: 10
+dish_name - kho quẹt: 18
+dish_name - salad: 15
+dish_name - cuốn: 17
+dish_name - gỏi: 20
+cooking_time - <hour_duration>: 122
+method - hấp: 19
+method - trộn: 16
+method - xào: 14
+method - sốt: 16
+method - quay: 13
+method - chiên : 8
+method - hầm: 9
+method - rán: 13
+method - nướng: 11
+method - luộc: 10
+condition - chua ngọt: 26
+condition - cay: 20
+condition - ngọt: 16
+condition - thơm: 24
+condition - chay: 21
+condition - mặn: 20
+occasion - lễ tốt nghiệp: 21
+occasion - tỏ tình: 9
+occasion - tân gia: 12
+occasion - lễ mừng thọ: 9
+occasion - buổi hẹn đầu tiên: 18
+occasion - sinh nhật: 12
+occasion - sinh nhật của <human_name>: 21
+occasion - kỉ niệm ngày cưới: 16
+occasion - <human_name> tới nhà: 18
+occasion - thành lập công ty: 2
+occasion - cầu hôn: 9
+number_of_servings - <int>: 104
+Đặt lịch:
+timeAt - <timeAt>: 119
+delay_duration - <duration>: 114
+continuous_duration - <duration>: 110
+event - giặt quần áo: 6
+event - dậy: 22
+event - cắt tóc: 11
+event - đi đá bóng: 7
+event - đi làm: 13
+event - đi họp: 13
+event - đi học: 10
+event - lau nhà: 9
+event - gửi mail: 4
+event - khách tới nhà: 12
+event - đi chơi: 18
+event - xem phim: 5
+event - đi ăn: 12
+event - tưới cây: 7
+event - bật phim: 11
+event - đi ngủ: 6
+event - nấu ăn: 8
+event - rửa bát: 7
+repeat - <hour_duration>: 121
+participants - <human_name>: 11
+participants - bạn bè: 16
+participants - đội bóng: 12
+participants - <human_name> và <human_name>: 20
+participants - lớp: 20
+participants - gia đình: 17
+participants - công ty: 17
+remind_duration - <hour_duration>: 109
+location - <place>: 107
+event_timeAt - <timeAt>: 126
+Gọi taxi:
+timeAt - <hour_timeAt>: 126
+delay_duration - <hour_duration>: 125
+brand - Thủ Đô: 14
+brand - Vinasun: 13
+brand - Group: 15
+brand - Thanh Nga: 11
+brand - Xanh SM: 10
+brand - Long Biên: 11
+brand - G7: 8
+brand - Mai Linh: 15
+brand - Thăng Long: 9
+brand - Vic: 12
+brand - Airport Hà Nội: 9
+brand - Hoàng Hợp: 11
+brand - ABC: 6
+brand - Hà Nội Tourist: 17
+pickup_location - <place>: 51
+pickup_location - <place>, <address>: 38
+pickup_location - <address>: 45
+dropoff_location - <place>: 48
+dropoff_location - <place>, <address>: 40
+dropoff_location - <address>: 43
+number_of_passengers - 7.0: 21
+number_of_passengers - 6.0: 25
+number_of_passengers - 4.0: 14
+number_of_passengers - 1.0: 17
+number_of_passengers - 8.0: 12
+number_of_passengers - 3.0: 23
+number_of_passengers - 5.0: 15
+number_of_passengers - 2.0: 14
+type (premium, …) - hạng sang: 59
+type (premium, …) - tiêu chuẩn: 76
+tra cứu đường đi:
+timeAt - <hour_timeAt>: 128
+delay_duration - <hour_duration>: 119
+destination - <address>: 72
+destination - <place>: 58
+distance - <int>km: 133
+travel_duration - <duration>: 134
+transport_type - đi bộ: 25
+transport_type - xe buýt: 16
+transport_type - xe lăn: 18
+transport_type - ô tô: 18
+transport_type - taxi: 11
+transport_type - tàu điện: 19
+transport_type - xe máy: 20
+transport_type - xe đạp: 11
+Đặt vé:
+timeAt - <timeAt>: 124
+delay_duration - <duration>: 124
+departure_location - <province>: 131
+arrival_location - <province>: 58
+arrival_location - <airport>: 64
+number_of_passengers - 14: 12
+number_of_passengers - 5: 8
+number_of_passengers - 2: 11
+number_of_passengers - 13: 13
+number_of_passengers - 9: 11
+number_of_passengers - 1: 8
+number_of_passengers - 7: 6
+number_of_passengers - 10: 14
+number_of_passengers - 16: 11
+number_of_passengers - 6: 8
+number_of_passengers - 8: 6
+number_of_passengers - 3: 6
+number_of_passengers - 11: 10
+number_of_passengers - 12: 10
+number_of_passengers - 4: 8
+number_of_passengers - 15: 4
+payment_method - chuyển khoản ngân hàng: 24
+payment_method - thẻ ngân hàng: 20
+payment_method - momo: 18
+payment_method - vnpay: 19
+payment_method - tiền mặt: 24
+payment_method - thẻ tín dụng: 19
+type - cho phép thú cưng: 21
+type - hút thuốc: 31
+type - thương gia: 28
+type - thường: 26
+type - trẻ em: 22
+type - vip: 19
+transport_type - tàu hỏa: 15
+transport_type - xe buýt: 24
+transport_type - ca nô: 10
+transport_type - ô tô: 18
+transport_type - xuồng: 18
+transport_type - tàu thủy: 16
+transport_type - tàu điện: 16
+transport_type - máy bay: 16
+departure_timeAt - <timeAt>: 137
+Gợi ý phim:
+timeAt - <hour_timeAt>: 23
+timeAt - trưa ngày <day_int>: 21
+timeAt - tối ngày <day_int>: 30
+timeAt - chiều ngày <day_int>: 24
+timeAt - sáng ngày <day_int>: 29
+delay_duration - <duration>: 120
+continuous_duration - <duration>: 126
+actor - <actor>: 119
+genre - ca nhạc: 11
+genre - kinh dị: 12
+genre - thiếu nhi: 6
+genre - chiến tranh: 5
+genre - kịch tính: 19
+genre - tình cảm: 12
+genre - tài liệu: 8
+genre - tội phạm: 8
+genre - viễn tưởng: 8
+genre - hài: 9
+genre - viễn tây: 13
+genre - siêu anh hùng: 12
+genre - hoạt hình: 11
+genre - lịch sử: 8
+genre - hành động: 7
+language - tiếng hàn: 19
+language - tiếng trung: 4
+language - tiếng đức: 19
+language - tiếng nhật: 19
+language - tiếng anh: 18
+language - tiếng tây ban nha: 24
+language - tiếng việt: 18
+rating - <rating_int>: 115
+movie_duration - <hour_duration>: 126
+gợi ý địa điểm:
+timeAt - <timeAt>: 129
+delay_duration - <hour_duration>: 133
+activity - uống cafe: 10
+activity - bơi lội: 15
+activity - họp nhóm: 16
+activity - đi chợ: 26
+activity - đọc sách: 24
+activity - vui chơi: 22
+activity - thể thao: 21
+activity - hẹn hò: 23
+activity - dã ngoại: 12
+activity - ăn uống: 8
+activity - tự học: 11
+activity - làm việc: 8
+activity - giải trí: 12
+activity - mua sắm: 9
+activity - học tập: 13
+activity - xem phim: 5
+activity - ăn cơm: 6
+activity - tập gym: 8
+ocassion - sinh nhật: 39
+ocassion - gặp mặt: 44
+ocassion - kỉ niệm: 46
+area - đoạn <street>: 18
+area - khu <university>: 19
+area - <district>: 17
+area - phố <street>: 14
+area - Times City: 20
+area - <province>: 25
+area - gần <place>: 16
+area - gần phố <street>: 19
+area - gần nhà: 12
+distance - <int> km: 130
+Xóa lịch:
+timeAt - <timeAt>: 135
+delay_duration - <min_int> phút: 62
+delay_duration - <hour_int> tiếng <min_int> phút: 68
+event - đi leo núi: 23
+event - đi cafe: 32
+event - đi chơi: 28
+event - gặp bạn bè: 15
+event - học tập: 17
+event - đi dã ngoại: 24
+event - họp: 14
+event - xem phim: 22
+event - làm việc: 12
+event - gặp đối tác: 19
+event - ăn uống: 16
+event_timeAt - <timeAt>: 21
+event_timeAt - tháng trước: 44
+event_timeAt - tháng tới: 36
+event_timeAt - <month_timeAt>: 22
+Liên hệ:
+timeAt - ngày mai: 35
+timeAt - ngày kia: 32
+timeAt - <timeAt>: 30
+timeAt - ngay bây giờ: 32
+delay_duration - <duration>: 107
+continuous_duration - <duration>: 118
+phone_number - <phone_number>: 134
+email - vuducminh@gmail.com: 35
+email - minh@yahoo.com: 25
+email - minh.vd@sis.hust.edu.vn: 29
+email - khanhlt@gmail.com: 31
+person - bạn <human_name>: 24
+person - bố tôi: 15
+person - sếp <human_name>: 29
+person - <human_name>: 36
+person - mẹ tôi: 34
+đặt đồ ăn:
+timeAt - <timeAt>: 42
+timeAt - ngày mai: 37
+timeAt - ngay bây giờ: 36
+delay_duration - <duration>: 129
+dish_name - <dish_name>: 56
+dish_name - <desert>: 58
+meal - ăn khuya: 21
+meal - bữa lỡ: 22
+meal - điểm tâm: 28
+meal - bữa tối: 18
+meal - bữa trưa: 22
+meal - bữa sáng: 18
+number_of_serving - <int>: 116
+condition - nóng: 43
+condition - nguội: 32
+condition - lạnh: 46
+occasion - liên hoan: 45
+occasion - sinh nhật: 48
+occasion - ăn tiệc: 30
+location - <address>: 128
+Hỏi thông tin:
+timeAt - <timeAt>: 38
+timeAt - ngày kia: 30
+timeAt - ngay bây giờ: 34
+timeAt - ngày mai: 33
+delay_duration - <duration>: 128
+keyword - lịch học: 18
+keyword - thời sự: 24
+keyword - lịch thi đấu bóng đá: 29
+keyword - giá xăng: 18
+keyword - thời tiết: 18
+keyword - lịch phát sóng: 17
+keyword - cổ phiếu: 16
+keyword - lịch chiếu phim: 15
+keyword - giá vàng: 15
+keyword_timeAt - tháng trước: 23
+keyword_timeAt - hôm qua: 18
+keyword_timeAt - ngày kia: 28
+keyword_timeAt - ngày mai: 23
+keyword_timeAt - <timeAt>: 22
+keyword_timeAt - ngay bây giờ: 15
+keyword_timeAt - tháng sau: 17
+Tra cứu thời tiết:
+timeAt - lát nữa: 43
+timeAt - bây giờ: 45
+timeAt - <timeAt>: 42
+delay_duration - <duration>: 131
+weather_descriptor - bão: 26
+weather_descriptor - đẹp: 12
+weather_descriptor - sương mù: 11
+weather_descriptor - giông: 10
+weather_descriptor - oi: 8
+weather_descriptor - nắng: 19
+weather_descriptor - nhiều mây: 11
+weather_descriptor - lạnh: 17
+weather_descriptor - nồm: 21
+weather_descriptor - mưa: 14
+location - <province>: 29
+location - <country>: 35
+location - <place>: 37
+location - <district>: 31
+weather_timeAt - cuối tháng: 20
+weather_timeAt - nửa đêm: 29
+weather_timeAt - cuối <day_timeAt>: 27
+weather_timeAt - <timeAt>: 18
+weather_timeAt - <buổi> <day_timeAt>: 15
+weather_timeAt - cuối tuần: 27
+weather_duration - <duration>: 129
+Tra cứu lịch:
+timeAt - <timeAt>: 128
+delay_duration - <duration>: 135
+event_timeAt - <timeAt>: 123
+event - đi ăn: 6
+event - xem phim: 27
+event - đi ngủ: 22
+event - gửi mail: 25
+event - rửa bát: 11
+event - đi họp: 17
+event - đi học: 18
+event - ngủ dậy: 7
+event - bật phim: 15
+event - giặt quần áo: 11
+event - đi đá bóng: 23
+event - đi làm: 10
+event - tưới cây: 22
+event - lau nhà: 9
+event - đi chơi: 13
+event - cắt tóc: 6
+event - nấu ăn: 9
+event - khách tới nhà: 7
+location - <place>: 131
+participants - <human_name> và <human_name>: 16
+participants - đội bóng: 22
+participants - gia đình: 23
+participants - lớp: 9
+participants - bạn bè: 20
+participants - <human_name>: 19
+participants - công ty: 22
+Bật nhạc:
+timeAt - <hour_timeAt>: 137
+delay_duration - <hour_duration>: 115
+continuous_duration - <hour_duration>: 129
+song - <century_int> s: 42
+song - <song_gerne>: 33
+song - <song_name>: 35
+song - <trending>: 26
+singer - <singer_name>: 127
+Tra công thức nấu ăn:
+timeAt - <timeAt>: 119
+delay_duration - <hour_duration>: 121
+meal - bữa trưa: 13
+meal - ăn khuya: 18
+meal - bữa tối: 22
+meal - bữa lỡ: 21
+meal - bữa sáng: 23
+meal - điểm tâm: 15
+ingredient - hàu: 8
+ingredient - cua hoàng đế: 8
+ingredient - tôm hùm: 15
+ingredient - cá ngừ: 7
+ingredient - sò điệp: 9
+ingredient - gà đồi: 10
+ingredient - mật ong: 14
+ingredient - cá hồi: 7
+ingredient - hành tây: 16
+ingredient - thịt bò: 4
+ingredient - salad: 6
+ingredient - thịt lợn: 10
+ingredient - hành lá: 11
+ingredient - trứng cá tầm: 17
+dish_name - salad: 10
+dish_name - mì ý: 17
+dish_name - lasagna: 16
+dish_name - súp: 11
+dish_name - kho quẹt: 15
+dish_name - cuốn: 7
+dish_name - cơm: 20
+dish_name - gỏi: 21
+dish_name - bít tết: 14
+dish_name - bánh: 4
+dish_name - bún: 15
+cooking_time - <hour_duration>: 118
+method - luộc: 20
+method - quay: 9
+method - hầm: 7
+method - xào: 8
+method - trộn: 14
+method - chiên : 9
+method - hấp: 12
+method - sốt: 6
+method - rán: 21
+method - nướng: 9
+condition - thơm: 26
+condition - chua ngọt: 20
+condition - cay: 13
+condition - mặn: 26
+condition - chay: 18
+condition - ngọt: 13
+occasion - kỉ niệm ngày cưới: 19
+occasion - sinh nhật: 12
+occasion - thành lập công ty: 10
+occasion - lễ tốt nghiệp: 14
+occasion - tân gia: 15
+occasion - cầu hôn: 11
+occasion - lễ mừng thọ: 9
+occasion - sinh nhật của <human_name>: 9
+occasion - tỏ tình: 11
+occasion - <human_name> tới nhà: 12
+occasion - buổi hẹn đầu tiên: 6
+number_of_servings - <int>: 121
+Đặt lịch:
+timeAt - <timeAt>: 115
+delay_duration - <duration>: 114
+continuous_duration - <duration>: 118
+event - đi làm: 14
+event - dậy: 7
+event - đi ăn: 9
+event - bật phim: 10
+event - rửa bát: 15
+event - cắt tóc: 9
+event - lau nhà: 6
+event - tưới cây: 8
+event - giặt quần áo: 20
+event - đi học: 13
+event - khách tới nhà: 24
+event - đi chơi: 8
+event - gửi mail: 5
+event - xem phim: 9
+event - nấu ăn: 11
+event - đi ngủ: 20
+event - đi họp: 10
+event - đi đá bóng: 5
+repeat - <hour_duration>: 119
+participants - đội bóng: 24
+participants - <human_name>: 31
+participants - công ty: 7
+participants - gia đình: 12
+participants - <human_name> và <human_name>: 17
+participants - bạn bè: 14
+participants - lớp: 9
+remind_duration - <hour_duration>: 117
+location - <place>: 118
+event_timeAt - <timeAt>: 118
+Gọi taxi:
+timeAt - <hour_timeAt>: 121
+delay_duration - <hour_duration>: 127
+brand - ABC: 13
+brand - Xanh SM: 17
+brand - Hà Nội Tourist: 19
+brand - Thủ Đô: 11
+brand - Hoàng Hợp: 23
+brand - Mai Linh: 16
+brand - Long Biên: 8
+brand - Vic: 13
+brand - Group: 11
+brand - G7: 11
+brand - Thăng Long: 10
+brand - Vinasun: 6
+brand - Thanh Nga: 22
+brand - Airport Hà Nội: 9
+pickup_location - <place>, <address>: 50
+pickup_location - <address>: 45
+pickup_location - <place>: 33
+dropoff_location - <place>: 38
+dropoff_location - <address>: 41
+dropoff_location - <place>, <address>: 31
+number_of_passengers - 1.0: 19
+number_of_passengers - 8.0: 12
+number_of_passengers - 2.0: 23
+number_of_passengers - 7.0: 20
+number_of_passengers - 5.0: 17
+number_of_passengers - 6.0: 19
+number_of_passengers - 4.0: 12
+number_of_passengers - 3.0: 10
+type (premium, …) - tiêu chuẩn: 72
+type (premium, …) - hạng sang: 50
+tra cứu đường đi:
+timeAt - <hour_timeAt>: 134
+delay_duration - <hour_duration>: 121
+destination - <address>: 60
+destination - <place>: 61
+distance - <int>km: 128
+travel_duration - <duration>: 132
+transport_type - tàu điện: 16
+transport_type - ô tô: 27
+transport_type - taxi: 20
+transport_type - xe đạp: 17
+transport_type - xe lăn: 25
+transport_type - xe buýt: 13
+transport_type - đi bộ: 16
+transport_type - xe máy: 7
+Đặt vé:
+timeAt - <timeAt>: 109
+delay_duration - <duration>: 112
+departure_location - <province>: 109
+arrival_location - <airport>: 59
+arrival_location - <province>: 52
+number_of_passengers - 10: 6
+number_of_passengers - 7: 10
+number_of_passengers - 14: 9
+number_of_passengers - 1: 11
+number_of_passengers - 5: 11
+number_of_passengers - 8: 23
+number_of_passengers - 16: 17
+number_of_passengers - 13: 8
+number_of_passengers - 9: 18
+number_of_passengers - 2: 12
+number_of_passengers - 4: 12
+number_of_passengers - 15: 5
+number_of_passengers - 12: 14
+number_of_passengers - 6: 13
+number_of_passengers - 3: 5
+number_of_passengers - 11: 4
+payment_method - tiền mặt: 23
+payment_method - vnpay: 22
+payment_method - chuyển khoản ngân hàng: 24
+payment_method - momo: 18
+payment_method - thẻ ngân hàng: 19
+payment_method - thẻ tín dụng: 15
+type - thương gia: 17
+type - cho phép thú cưng: 12
+type - vip: 24
+type - hút thuốc: 19
+type - thường: 21
+type - trẻ em: 31
+transport_type - tàu thủy: 12
+transport_type - tàu điện: 18
+transport_type - xuồng: 17
+transport_type - ca nô: 17
+transport_type - xe buýt: 10
+transport_type - máy bay: 10
+transport_type - ô tô: 17
+transport_type - tàu hỏa: 10
+departure_timeAt - <timeAt>: 124
+Gợi ý phim:
+timeAt - tối ngày <day_int>: 26
+timeAt - chiều ngày <day_int>: 25
+timeAt - <hour_timeAt>: 28
+timeAt - trưa ngày <day_int>: 28
+timeAt - sáng ngày <day_int>: 15
+delay_duration - <duration>: 110
+continuous_duration - <duration>: 132
+actor - <actor>: 115
+genre - ca nhạc: 13
+genre - tội phạm: 6
+genre - hành động: 20
+genre - hoạt hình: 25
+genre - hài: 20
+genre - lịch sử: 9
+genre - chiến tranh: 11
+genre - viễn tây: 12
+genre - kinh dị: 27
+genre - siêu anh hùng: 12
+genre - tài liệu: 7
+genre - viễn tưởng: 8
+genre - thiếu nhi: 3
+genre - tình cảm: 5
+genre - kịch tính: 7
+language - tiếng trung: 14
+language - tiếng tây ban nha: 29
+language - tiếng anh: 21
+language - tiếng việt: 10
+language - tiếng nhật: 14
+language - tiếng hàn: 16
+language - tiếng đức: 12
+rating - <rating_int>: 123
+movie_duration - <hour_duration>: 124
+gợi ý địa điểm:
+timeAt - <timeAt>: 140
+delay_duration - <hour_duration>: 136
+activity - ăn uống: 22
+activity - thể thao: 18
+activity - đi chợ: 31
+activity - vui chơi: 20
+activity - tập gym: 19
+activity - uống cafe: 7
+activity - hẹn hò: 11
+activity - học tập: 24
+activity - bơi lội: 10
+activity - ăn cơm: 13
+activity - dã ngoại: 9
+activity - xem phim: 10
+activity - họp nhóm: 13
+activity - mua sắm: 9
+activity - làm việc: 12
+activity - đọc sách: 9
+activity - tự học: 7
+activity - giải trí: 8
+ocassion - kỉ niệm: 45
+ocassion - sinh nhật: 42
+ocassion - gặp mặt: 43
+area - đoạn <street>: 19
+area - gần nhà: 10
+area - gần <place>: 20
+area - <province>: 21
+area - phố <street>: 14
+area - gần phố <street>: 18
+area - <district>: 13
+area - Times City: 11
+area - khu <university>: 17
+distance - <int> km: 120
+Xóa lịch:
+timeAt - <timeAt>: 136
+delay_duration - <hour_int> tiếng <min_int> phút: 78
+delay_duration - <min_int> phút: 69
+event - đi leo núi: 22
+event - đi cafe: 17
+event - học tập: 16
+event - họp: 18
+event - gặp bạn bè: 23
+event - gặp đối tác: 16
+event - xem phim: 9
+event - đi chơi: 17
+event - ăn uống: 13
+event - làm việc: 12
+event - đi dã ngoại: 19
+event_timeAt - tháng tới: 42
+event_timeAt - <month_timeAt>: 32
+event_timeAt - <timeAt>: 35
+event_timeAt - tháng trước: 23
+Liên hệ:
+timeAt - ngày kia: 38
+timeAt - ngay bây giờ: 19
+timeAt - <timeAt>: 43
+timeAt - ngày mai: 36
+delay_duration - <duration>: 120
+continuous_duration - <duration>: 129
+phone_number - <phone_number>: 113
+email - minh.vd@sis.hust.edu.vn: 24
+email - khanhlt@gmail.com: 40
+email - minh@yahoo.com: 24
+email - vuducminh@gmail.com: 33
+person - <human_name>: 27
+person - sếp <human_name>: 31
+person - bố tôi: 26
+person - bạn <human_name>: 20
+person - mẹ tôi: 30
+đặt đồ ăn:
+timeAt - ngày mai: 34
+timeAt - <timeAt>: 51
+timeAt - ngay bây giờ: 38
+delay_duration - <duration>: 105
+dish_name - <dish_name>: 50
+dish_name - <desert>: 54
+meal - điểm tâm: 21
+meal - bữa lỡ: 20
+meal - ăn khuya: 18
+meal - bữa trưa: 19
+meal - bữa tối: 23
+meal - bữa sáng: 16
+number_of_serving - <int>: 112
+condition - nguội: 47
+condition - nóng: 45
+condition - lạnh: 39
+occasion - sinh nhật: 37
+occasion - ăn tiệc: 41
+occasion - liên hoan: 30
+location - <address>: 117
+Hỏi thông tin:
+timeAt - ngày mai: 41
+timeAt - ngay bây giờ: 35
+timeAt - <timeAt>: 33
+timeAt - ngày kia: 27
+delay_duration - <duration>: 133
+keyword - giá vàng: 24
+keyword - giá xăng: 18
+keyword - lịch chiếu phim: 26
+keyword - lịch thi đấu bóng đá: 16
+keyword - lịch phát sóng: 29
+keyword - lịch học: 15
+keyword - cổ phiếu: 14
+keyword - thời tiết: 22
+keyword - thời sự: 22
+keyword_timeAt - hôm qua: 17
+keyword_timeAt - tháng trước: 16
+keyword_timeAt - ngay bây giờ: 23
+keyword_timeAt - <timeAt>: 24
+keyword_timeAt - ngày mai: 19
+keyword_timeAt - ngày kia: 23
+keyword_timeAt - tháng sau: 20
+Tra cứu thời tiết:
+timeAt - lát nữa: 48
+timeAt - <timeAt>: 36
+timeAt - bây giờ: 39
+delay_duration - <duration>: 129
+weather_descriptor - nồm: 18
+weather_descriptor - bão: 17
+weather_descriptor - oi: 18
+weather_descriptor - sương mù: 14
+weather_descriptor - đẹp: 14
+weather_descriptor - nắng: 20
+weather_descriptor - nhiều mây: 12
+weather_descriptor - giông: 14
+weather_descriptor - mưa: 10
+weather_descriptor - lạnh: 11
+location - <province>: 30
+location - <place>: 29
+location - <district>: 36
+location - <country>: 41
+weather_timeAt - <buổi> <day_timeAt>: 23
+weather_timeAt - cuối tháng: 27
+weather_timeAt - cuối tuần: 24
+weather_timeAt - nửa đêm: 23
+weather_timeAt - cuối <day_timeAt>: 24
+weather_timeAt - <timeAt>: 21
+weather_duration - <duration>: 127
+Tra cứu lịch:
+timeAt - <timeAt>: 124
+delay_duration - <duration>: 125
+event_timeAt - <timeAt>: 119
+event - đi chơi: 15
+event - đi làm: 19
+event - đi ăn: 18
+event - đi học: 18
+event - tưới cây: 20
+event - đi ngủ: 11
+event - bật phim: 10
+event - cắt tóc: 8
+event - đi đá bóng: 11
+event - ngủ dậy: 8
+event - xem phim: 6
+event - lau nhà: 20
+event - giặt quần áo: 13
+event - nấu ăn: 13
+event - đi họp: 19
+event - rửa bát: 20
+event - khách tới nhà: 11
+event - gửi mail: 7
+location - <place>: 135
+participants - bạn bè: 23
+participants - <human_name> và <human_name>: 21
+participants - lớp: 19
+participants - <human_name>: 20
+participants - đội bóng: 14
+participants - công ty: 21
+participants - gia đình: 14
+Bật nhạc:
+timeAt - <hour_timeAt>: 117
+delay_duration - <hour_duration>: 123
+continuous_duration - <hour_duration>: 114
+song - <trending>: 31
+song - <song_gerne>: 35
+song - <century_int> s: 38
+song - <song_name>: 23
+singer - <singer_name>: 125
+Tra công thức nấu ăn:
+timeAt - <timeAt>: 121
+delay_duration - <hour_duration>: 127
+meal - bữa trưa: 16
+meal - bữa sáng: 25
+meal - bữa lỡ: 19
+meal - điểm tâm: 25
+meal - bữa tối: 23
+meal - ăn khuya: 19
+ingredient - trứng cá tầm: 13
+ingredient - mật ong: 12
+ingredient - hành lá: 6
+ingredient - cá hồi: 11
+ingredient - thịt bò: 4
+ingredient - tôm hùm: 21
+ingredient - cá ngừ: 22
+ingredient - hàu: 11
+ingredient - hành tây: 9
+ingredient - thịt lợn: 13
+ingredient - cua hoàng đế: 11
+ingredient - gà đồi: 8
+ingredient - sò điệp: 8
+ingredient - salad: 13
+dish_name - lasagna: 8
+dish_name - mì ý: 13
+dish_name - súp: 16
+dish_name - cơm: 12
+dish_name - bún: 11
+dish_name - cuốn: 13
+dish_name - salad: 8
+dish_name - bít tết: 13
+dish_name - bánh: 12
+dish_name - gỏi: 8
+dish_name - kho quẹt: 19
+cooking_time - <hour_duration>: 125
+method - trộn: 14
+method - hầm: 14
+method - xào: 11
+method - luộc: 11
+method - nướng: 21
+method - hấp: 16
+method - quay: 18
+method - chiên : 9
+method - rán: 14
+method - sốt: 12
+condition - chua ngọt: 21
+condition - ngọt: 19
+condition - cay: 21
+condition - mặn: 24
+condition - thơm: 24
+condition - chay: 21
+occasion - buổi hẹn đầu tiên: 10
+occasion - cầu hôn: 21
+occasion - sinh nhật: 8
+occasion - tỏ tình: 7
+occasion - lễ tốt nghiệp: 7
+occasion - tân gia: 12
+occasion - lễ mừng thọ: 9
+occasion - sinh nhật của <human_name>: 15
+occasion - thành lập công ty: 13
+occasion - <human_name> tới nhà: 10
+occasion - kỉ niệm ngày cưới: 12
+number_of_servings - <int>: 127
+Đặt lịch:
+timeAt - <timeAt>: 116
+delay_duration - <duration>: 112
+continuous_duration - <duration>: 114
+event - đi ngủ: 25
+event - đi chơi: 27
+event - khách tới nhà: 6
+event - lau nhà: 20
+event - cắt tóc: 10
+event - dậy: 8
+event - đi đá bóng: 11
+event - đi học: 8
+event - xem phim: 5
+event - đi họp: 7
+event - đi ăn: 6
+event - gửi mail: 9
+event - nấu ăn: 19
+event - đi làm: 4
+event - tưới cây: 5
+event - rửa bát: 5
+event - bật phim: 9
+event - giặt quần áo: 14
+repeat - <hour_duration>: 121
+participants - công ty: 17
+participants - gia đình: 23
+participants - lớp: 18
+participants - đội bóng: 11
+participants - <human_name> và <human_name>: 16
+participants - <human_name>: 19
+participants - bạn bè: 14
+remind_duration - <hour_duration>: 116
+location - <place>: 119
+event_timeAt - <timeAt>: 119
+Gọi taxi:
+timeAt - <hour_timeAt>: 119
+delay_duration - <hour_duration>: 120
+brand - Hà Nội Tourist: 14
+brand - Xanh SM: 10
+brand - ABC: 7
+brand - Vic: 11
+brand - Vinasun: 18
+brand - G7: 11
+brand - Long Biên: 18
+brand - Group: 9
+brand - Thăng Long: 25
+brand - Hoàng Hợp: 9
+brand - Airport Hà Nội: 8
+brand - Thủ Đô: 14
+brand - Thanh Nga: 8
+brand - Mai Linh: 8
+pickup_location - <place>, <address>: 47
+pickup_location - <address>: 40
+pickup_location - <place>: 33
+dropoff_location - <place>: 44
+dropoff_location - <address>: 41
+dropoff_location - <place>, <address>: 34
+number_of_passengers - 1.0: 11
+number_of_passengers - 8.0: 11
+number_of_passengers - 3.0: 16
+number_of_passengers - 4.0: 23
+number_of_passengers - 7.0: 23
+number_of_passengers - 6.0: 18
+number_of_passengers - 5.0: 17
+number_of_passengers - 2.0: 17
+type (premium, …) - hạng sang: 58
+type (premium, …) - tiêu chuẩn: 60
+tra cứu đường đi:
+timeAt - <hour_timeAt>: 133
+delay_duration - <hour_duration>: 129
+destination - <place>: 54
+destination - <address>: 77
+distance - <int>km: 118
+travel_duration - <duration>: 131
+transport_type - taxi: 16
+transport_type - xe buýt: 20
+transport_type - xe đạp: 16
+transport_type - đi bộ: 12
+transport_type - xe lăn: 15
+transport_type - ô tô: 11
+transport_type - tàu điện: 16
+transport_type - xe máy: 17
+Đặt vé:
+timeAt - <timeAt>: 120
+delay_duration - <duration>: 121
+departure_location - <province>: 129
+arrival_location - <airport>: 64
+arrival_location - <province>: 59
+number_of_passengers - 13: 10
+number_of_passengers - 10: 7
+number_of_passengers - 8: 10
+number_of_passengers - 11: 18
+number_of_passengers - 9: 10
+number_of_passengers - 5: 21
+number_of_passengers - 7: 11
+number_of_passengers - 1: 9
+number_of_passengers - 14: 17
+number_of_passengers - 4: 4
+number_of_passengers - 2: 9
+number_of_passengers - 3: 16
+number_of_passengers - 12: 7
+number_of_passengers - 6: 9
+number_of_passengers - 15: 9
+number_of_passengers - 16: 7
+payment_method - tiền mặt: 32
+payment_method - chuyển khoản ngân hàng: 23
+payment_method - vnpay: 18
+payment_method - thẻ ngân hàng: 28
+payment_method - momo: 15
+payment_method - thẻ tín dụng: 20
+type - hút thuốc: 20
+type - trẻ em: 20
+type - thương gia: 20
+type - vip: 20
+type - thường: 21
+type - cho phép thú cưng: 16
+transport_type - ô tô: 16
+transport_type - tàu hỏa: 25
+transport_type - xe buýt: 17
+transport_type - ca nô: 9
+transport_type - tàu điện: 17
+transport_type - máy bay: 13
+transport_type - tàu thủy: 19
+transport_type - xuồng: 14
+departure_timeAt - <timeAt>: 123
+Gợi ý phim:
+timeAt - chiều ngày <day_int>: 23
+timeAt - <hour_timeAt>: 25
+timeAt - trưa ngày <day_int>: 22
+timeAt - sáng ngày <day_int>: 22
+timeAt - tối ngày <day_int>: 25
+delay_duration - <duration>: 122
+continuous_duration - <duration>: 116
+actor - <actor>: 116
+genre - tài liệu: 14
+genre - kịch tính: 7
+genre - thiếu nhi: 21
+genre - viễn tây: 17
+genre - ca nhạc: 6
+genre - kinh dị: 19
+genre - hài: 7
+genre - hoạt hình: 14
+genre - chiến tranh: 13
+genre - lịch sử: 7
+genre - tội phạm: 4
+genre - viễn tưởng: 9
+genre - hành động: 23
+genre - tình cảm: 5
+genre - siêu anh hùng: 3
+language - tiếng anh: 20
+language - tiếng tây ban nha: 14
+language - tiếng nhật: 24
+language - tiếng việt: 17
+language - tiếng trung: 13
+language - tiếng hàn: 22
+language - tiếng đức: 20
+rating - <rating_int>: 128
+movie_duration - <hour_duration>: 123
+gợi ý địa điểm:
+timeAt - <timeAt>: 134
+delay_duration - <hour_duration>: 132
+activity - thể thao: 14
+activity - vui chơi: 28
+activity - ăn cơm: 16
+activity - hẹn hò: 9
+activity - làm việc: 19
+activity - đọc sách: 11
+activity - mua sắm: 13
+activity - họp nhóm: 11
+activity - tự học: 10
+activity - đi chợ: 9
+activity - xem phim: 12
+activity - dã ngoại: 19
+activity - uống cafe: 12
+activity - tập gym: 15
+activity - bơi lội: 7
+activity - học tập: 23
+activity - giải trí: 7
+activity - ăn uống: 22
+ocassion - kỉ niệm: 42
+ocassion - sinh nhật: 42
+ocassion - gặp mặt: 30
+area - gần nhà: 15
+area - phố <street>: 23
+area - Times City: 16
+area - <province>: 19
+area - <district>: 9
+area - đoạn <street>: 20
+area - khu <university>: 20
+area - gần phố <street>: 18
+area - gần <place>: 19
+distance - <int> km: 127
+Xóa lịch:
+timeAt - <timeAt>: 125
+delay_duration - <hour_int> tiếng <min_int> phút: 57
+delay_duration - <min_int> phút: 67
+event - xem phim: 15
+event - học tập: 19
+event - đi dã ngoại: 10
+event - ăn uống: 12
+event - gặp bạn bè: 17
+event - làm việc: 13
+event - họp: 24
+event - đi cafe: 20
+event - đi leo núi: 15
+event - gặp đối tác: 24
+event - đi chơi: 14
+event_timeAt - tháng trước: 44
+event_timeAt - <month_timeAt>: 35
+event_timeAt - tháng tới: 35
+event_timeAt - <timeAt>: 48
+Liên hệ:
+timeAt - ngay bây giờ: 25
+timeAt - ngày kia: 35
+timeAt - <timeAt>: 30
+timeAt - ngày mai: 35
+delay_duration - <duration>: 126
+continuous_duration - <duration>: 128
+phone_number - <phone_number>: 130
+email - minh@yahoo.com: 31
+email - vuducminh@gmail.com: 20
+email - minh.vd@sis.hust.edu.vn: 37
+email - khanhlt@gmail.com: 31
+person - sếp <human_name>: 20
+person - mẹ tôi: 30
+person - bố tôi: 19
+person - <human_name>: 27
+person - bạn <human_name>: 26
+đặt đồ ăn:
+timeAt - <timeAt>: 38
+timeAt - ngày mai: 41
+timeAt - ngay bây giờ: 37
+delay_duration - <duration>: 116
+dish_name - <desert>: 60
+dish_name - <dish_name>: 66
+meal - ăn khuya: 19
+meal - bữa lỡ: 15
+meal - bữa tối: 25
+meal - bữa trưa: 22
+meal - điểm tâm: 21
+meal - bữa sáng: 22
+number_of_serving - <int>: 107
+condition - nóng: 35
+condition - nguội: 42
+condition - lạnh: 46
+occasion - ăn tiệc: 37
+occasion - sinh nhật: 32
+occasion - liên hoan: 48
+location - <address>: 110
+Hỏi thông tin:
+timeAt - ngày kia: 42
+timeAt - ngày mai: 33
+timeAt - <timeAt>: 40
+timeAt - ngay bây giờ: 39
+delay_duration - <duration>: 131
+keyword - thời sự: 25
+keyword - lịch chiếu phim: 13
+keyword - thời tiết: 17
+keyword - cổ phiếu: 17
+keyword - lịch thi đấu bóng đá: 19
+keyword - giá xăng: 24
+keyword - lịch phát sóng: 12
+keyword - giá vàng: 16
+keyword - lịch học: 15
+keyword_timeAt - <timeAt>: 14
+keyword_timeAt - ngày kia: 28
+keyword_timeAt - tháng sau: 27
+keyword_timeAt - tháng trước: 26
+keyword_timeAt - hôm qua: 10
+keyword_timeAt - ngay bây giờ: 14
+keyword_timeAt - ngày mai: 23
+Tra cứu thời tiết:
+timeAt - bây giờ: 53
+timeAt - <timeAt>: 41
+timeAt - lát nữa: 36
+delay_duration - <duration>: 128
+weather_descriptor - mưa: 11
+weather_descriptor - oi: 13
+weather_descriptor - sương mù: 20
+weather_descriptor - nhiều mây: 14
+weather_descriptor - nắng: 18
+weather_descriptor - bão: 18
+weather_descriptor - nồm: 19
+weather_descriptor - lạnh: 18
+weather_descriptor - đẹp: 20
+weather_descriptor - giông: 7
+location - <place>: 27
+location - <province>: 38
+location - <district>: 35
+location - <country>: 32
+weather_timeAt - <buổi> <day_timeAt>: 21
+weather_timeAt - cuối tuần: 22
+weather_timeAt - cuối tháng: 33
+weather_timeAt - cuối <day_timeAt>: 26
+weather_timeAt - nửa đêm: 15
+weather_timeAt - <timeAt>: 24
+weather_duration - <duration>: 130
+Tra cứu lịch:
+timeAt - <timeAt>: 120
+delay_duration - <duration>: 120
+event_timeAt - <timeAt>: 116
+event - cắt tóc: 22
+event - đi chơi: 26
+event - đi đá bóng: 18
+event - đi họp: 22
+event - ngủ dậy: 18
+event - đi ăn: 21
+event - rửa bát: 9
+event - đi làm: 30
+event - đi ngủ: 13
+event - khách tới nhà: 8
+event - lau nhà: 10
+event - nấu ăn: 9
+event - giặt quần áo: 12
+event - xem phim: 22
+event - đi học: 21
+event - gửi mail: 11
+event - bật phim: 10
+event - tưới cây: 6
+location - <place>: 122
+participants - công ty: 25
+participants - lớp: 18
+participants - bạn bè: 17
+participants - đội bóng: 27
+participants - gia đình: 18
+participants - <human_name>: 10
+participants - <human_name> và <human_name>: 21
+Bật nhạc:
+timeAt - <hour_timeAt>: 109
+delay_duration - <hour_duration>: 129
+continuous_duration - <hour_duration>: 139
+song - <trending>: 34
+song - <song_name>: 33
+song - <song_gerne>: 28
+song - <century_int> s: 31
+singer - <singer_name>: 135
+Tra công thức nấu ăn:
+timeAt - <timeAt>: 111
+delay_duration - <hour_duration>: 119
+meal - bữa tối: 16
+meal - bữa sáng: 25
+meal - bữa trưa: 22
+meal - điểm tâm: 20
+meal - ăn khuya: 19
+meal - bữa lỡ: 17
+ingredient - thịt lợn: 12
+ingredient - mật ong: 11
+ingredient - hành tây: 8
+ingredient - thịt bò: 11
+ingredient - salad: 5
+ingredient - gà đồi: 12
+ingredient - hành lá: 8
+ingredient - cá ngừ: 10
+ingredient - sò điệp: 25
+ingredient - tôm hùm: 7
+ingredient - hàu: 14
+ingredient - trứng cá tầm: 10
+ingredient - cua hoàng đế: 9
+ingredient - cá hồi: 18
+dish_name - mì ý: 10
+dish_name - salad: 8
+dish_name - gỏi: 13
+dish_name - bánh: 18
+dish_name - cơm: 11
+dish_name - lasagna: 12
+dish_name - bún: 11
+dish_name - bít tết: 8
+dish_name - súp: 14
+dish_name - kho quẹt: 6
+dish_name - cuốn: 10
+cooking_time - <hour_duration>: 113
+method - xào: 19
+method - hầm: 15
+method - nướng: 11
+method - sốt: 11
+method - hấp: 11
+method - chiên : 11
+method - quay: 17
+method - rán: 9
+method - luộc: 6
+method - trộn: 13
+condition - chua ngọt: 21
+condition - thơm: 17
+condition - mặn: 17
+condition - cay: 26
+condition - chay: 29
+condition - ngọt: 18
+occasion - buổi hẹn đầu tiên: 9
+occasion - <human_name> tới nhà: 13
+occasion - tỏ tình: 16
+occasion - tân gia: 9
+occasion - lễ tốt nghiệp: 17
+occasion - kỉ niệm ngày cưới: 11
+occasion - thành lập công ty: 10
+occasion - sinh nhật: 11
+occasion - sinh nhật của <human_name>: 13
+occasion - lễ mừng thọ: 5
+occasion - cầu hôn: 10
+number_of_servings - <int>: 122
+Đặt lịch:
+timeAt - <timeAt>: 125
+delay_duration - <duration>: 118
+continuous_duration - <duration>: 123
+event - tưới cây: 9
+event - đi chơi: 13
+event - đi ngủ: 7
+event - giặt quần áo: 11
+event - xem phim: 19
+event - lau nhà: 4
+event - đi làm: 5
+event - nấu ăn: 12
+event - đi họp: 26
+event - đi học: 15
+event - khách tới nhà: 11
+event - bật phim: 14
+event - đi ăn: 19
+event - gửi mail: 9
+event - rửa bát: 10
+event - đi đá bóng: 19
+event - cắt tóc: 4
+event - dậy: 12
+repeat - <hour_duration>: 113
+participants - đội bóng: 20
+participants - <human_name> và <human_name>: 11
+participants - <human_name>: 22
+participants - gia đình: 12
+participants - công ty: 20
+participants - lớp: 21
+participants - bạn bè: 17
+remind_duration - <hour_duration>: 122
+location - <place>: 125
+event_timeAt - <timeAt>: 129
+Gọi taxi:
+timeAt - <hour_timeAt>: 114
+delay_duration - <hour_duration>: 128
+brand - Xanh SM: 11
+brand - G7: 12
+brand - Thanh Nga: 20
+brand - Long Biên: 6
+brand - Hà Nội Tourist: 13
+brand - Group: 19
+brand - Mai Linh: 15
+brand - Thăng Long: 15
+brand - ABC: 11
+brand - Thủ Đô: 17
+brand - Hoàng Hợp: 11
+brand - Vic: 12
+brand - Airport Hà Nội: 15
+brand - Vinasun: 12
+pickup_location - <place>, <address>: 43
+pickup_location - <place>: 40
+pickup_location - <address>: 46
+dropoff_location - <address>: 35
+dropoff_location - <place>, <address>: 42
+dropoff_location - <place>: 42
+number_of_passengers - 5.0: 12
+number_of_passengers - 6.0: 12
+number_of_passengers - 2.0: 18
+number_of_passengers - 8.0: 24
+number_of_passengers - 3.0: 17
+number_of_passengers - 7.0: 23
+number_of_passengers - 4.0: 18
+number_of_passengers - 1.0: 18
+type (premium, …) - hạng sang: 56
+type (premium, …) - tiêu chuẩn: 57
+tra cứu đường đi:
+timeAt - <hour_timeAt>: 128
+delay_duration - <hour_duration>: 121
+destination - <address>: 64
+destination - <place>: 56
+distance - <int>km: 133
+travel_duration - <duration>: 118
+transport_type - đi bộ: 20
+transport_type - xe đạp: 20
+transport_type - xe buýt: 23
+transport_type - ô tô: 20
+transport_type - xe máy: 20
+transport_type - xe lăn: 19
+transport_type - tàu điện: 14
+transport_type - taxi: 12
+Đặt vé:
+timeAt - <timeAt>: 117
+delay_duration - <duration>: 119
+departure_location - <province>: 122
+arrival_location - <airport>: 58
+arrival_location - <province>: 60
+number_of_passengers - 2: 19
+number_of_passengers - 6: 11
+number_of_passengers - 7: 14
+number_of_passengers - 15: 5
+number_of_passengers - 12: 23
+number_of_passengers - 5: 8
+number_of_passengers - 1: 13
+number_of_passengers - 13: 17
+number_of_passengers - 16: 11
+number_of_passengers - 4: 20
+number_of_passengers - 9: 9
+number_of_passengers - 3: 10
+number_of_passengers - 10: 8
+number_of_passengers - 14: 9
+number_of_passengers - 8: 5
+number_of_passengers - 11: 6
+payment_method - thẻ ngân hàng: 26
+payment_method - thẻ tín dụng: 24
+payment_method - chuyển khoản ngân hàng: 19
+payment_method - vnpay: 25
+payment_method - tiền mặt: 17
+payment_method - momo: 15
+type - vip: 23
+type - thương gia: 16
+type - cho phép thú cưng: 21
+type - hút thuốc: 23
+type - thường: 20
+type - trẻ em: 18
+transport_type - xe buýt: 13
+transport_type - máy bay: 8
+transport_type - xuồng: 18
+transport_type - tàu thủy: 23
+transport_type - ô tô: 16
+transport_type - tàu điện: 16
+transport_type - ca nô: 15
+transport_type - tàu hỏa: 21
+departure_timeAt - <timeAt>: 121
+Gợi ý phim:
+timeAt - sáng ngày <day_int>: 28
+timeAt - trưa ngày <day_int>: 28
+timeAt - chiều ngày <day_int>: 26
+timeAt - tối ngày <day_int>: 25
+timeAt - <hour_timeAt>: 25
+delay_duration - <duration>: 132
+continuous_duration - <duration>: 133
+actor - <actor>: 118
+genre - tội phạm: 18
+genre - hài: 7
+genre - chiến tranh: 14
+genre - lịch sử: 9
+genre - kinh dị: 18
+genre - tài liệu: 15
+genre - hoạt hình: 8
+genre - hành động: 15
+genre - viễn tưởng: 6
+genre - thiếu nhi: 11
+genre - ca nhạc: 10
+genre - siêu anh hùng: 7
+genre - kịch tính: 12
+genre - viễn tây: 6
+genre - tình cảm: 7
+language - tiếng hàn: 21
+language - tiếng nhật: 18
+language - tiếng đức: 17
+language - tiếng anh: 16
+language - tiếng tây ban nha: 21
+language - tiếng việt: 23
+language - tiếng trung: 12
+rating - <rating_int>: 116
+movie_duration - <hour_duration>: 134
+gợi ý địa điểm:
+timeAt - <timeAt>: 108
+delay_duration - <hour_duration>: 123
+activity - xem phim: 7
+activity - uống cafe: 13
+activity - bơi lội: 13
+activity - làm việc: 25
+activity - họp nhóm: 18
+activity - vui chơi: 13
+activity - tập gym: 13
+activity - ăn cơm: 17
+activity - dã ngoại: 23
+activity - học tập: 12
+activity - đọc sách: 8
+activity - tự học: 21
+activity - mua sắm: 11
+activity - giải trí: 24
+activity - thể thao: 7
+activity - hẹn hò: 20
+activity - đi chợ: 11
+activity - ăn uống: 12
+ocassion - kỉ niệm: 43
+ocassion - sinh nhật: 44
+ocassion - gặp mặt: 56
+area - Times City: 24
+area - khu <university>: 18
+area - gần <place>: 9
+area - gần phố <street>: 17
+area - <district>: 16
+area - <province>: 12
+area - phố <street>: 13
+area - đoạn <street>: 11
+area - gần nhà: 10
+distance - <int> km: 130
+Xóa lịch:
+timeAt - <timeAt>: 132
+delay_duration - <min_int> phút: 78
+delay_duration - <hour_int> tiếng <min_int> phút: 53
+event - học tập: 17
+event - gặp đối tác: 28
+event - đi chơi: 16
+event - làm việc: 15
+event - họp: 11
+event - xem phim: 18
+event - đi dã ngoại: 12
+event - đi cafe: 9
+event - đi leo núi: 20
+event - gặp bạn bè: 16
+event - ăn uống: 11
+event_timeAt - tháng tới: 34
+event_timeAt - tháng trước: 34
+event_timeAt - <timeAt>: 34
+event_timeAt - <month_timeAt>: 43
+Liên hệ:
+timeAt - ngày mai: 35
+timeAt - ngày kia: 32
+timeAt - <timeAt>: 36
+timeAt - ngay bây giờ: 30
+delay_duration - <duration>: 138
+continuous_duration - <duration>: 136
+phone_number - <phone_number>: 132
+email - minh@yahoo.com: 46
+email - khanhlt@gmail.com: 29
+email - minh.vd@sis.hust.edu.vn: 34
+email - vuducminh@gmail.com: 40
+person - sếp <human_name>: 26
+person - bạn <human_name>: 25
+person - bố tôi: 28
+person - <human_name>: 30
+person - mẹ tôi: 26
+đặt đồ ăn:
+timeAt - ngày mai: 43
+timeAt - <timeAt>: 44
+timeAt - ngay bây giờ: 44
+delay_duration - <duration>: 112
+dish_name - <desert>: 51
+dish_name - <dish_name>: 63
+meal - bữa tối: 19
+meal - điểm tâm: 23
+meal - ăn khuya: 16
+meal - bữa lỡ: 16
+meal - bữa sáng: 34
+meal - bữa trưa: 18
+number_of_serving - <int>: 126
+condition - lạnh: 44
+condition - nguội: 40
+condition - nóng: 43
+occasion - sinh nhật: 43
+occasion - liên hoan: 45
+occasion - ăn tiệc: 41
+location - <address>: 117
+Hỏi thông tin:
+timeAt - ngày mai: 30
+timeAt - <timeAt>: 32
+timeAt - ngay bây giờ: 45
+timeAt - ngày kia: 36
+delay_duration - <duration>: 136
+keyword - cổ phiếu: 20
+keyword - thời tiết: 18
+keyword - giá vàng: 19
+keyword - thời sự: 26
+keyword - lịch chiếu phim: 17
+keyword - lịch học: 13
+keyword - lịch phát sóng: 17
+keyword - lịch thi đấu bóng đá: 11
+keyword - giá xăng: 12
+keyword_timeAt - tháng sau: 27
+keyword_timeAt - hôm qua: 26
+keyword_timeAt - ngày kia: 28
+keyword_timeAt - <timeAt>: 25
+keyword_timeAt - tháng trước: 18
+keyword_timeAt - ngay bây giờ: 20
+keyword_timeAt - ngày mai: 19
+Tra cứu thời tiết:
+timeAt - bây giờ: 37
+timeAt - <timeAt>: 47
+timeAt - lát nữa: 41
+delay_duration - <duration>: 118
+weather_descriptor - nồm: 20
+weather_descriptor - oi: 13
+weather_descriptor - sương mù: 26
+weather_descriptor - lạnh: 17
+weather_descriptor - đẹp: 17
+weather_descriptor - bão: 15
+weather_descriptor - nhiều mây: 16
+weather_descriptor - mưa: 14
+weather_descriptor - nắng: 18
+weather_descriptor - giông: 15
+location - <place>: 24
+location - <district>: 34
+location - <country>: 38
+location - <province>: 41
+weather_timeAt - cuối <day_timeAt>: 26
+weather_timeAt - cuối tháng: 28
+weather_timeAt - cuối tuần: 22
+weather_timeAt - <timeAt>: 17
+weather_timeAt - <buổi> <day_timeAt>: 20
+weather_timeAt - nửa đêm: 19
+weather_duration - <duration>: 120
+Tra cứu lịch:
+timeAt - <timeAt>: 126
+delay_duration - <duration>: 126
+event_timeAt - <timeAt>: 127
+event - xem phim: 12
+event - giặt quần áo: 20
+event - ngủ dậy: 21
+event - nấu ăn: 11
+event - lau nhà: 13
+event - đi làm: 18
+event - đi họp: 8
+event - đi ngủ: 7
+event - gửi mail: 24
+event - đi ăn: 15
+event - đi học: 13
+event - tưới cây: 13
+event - đi chơi: 25
+event - bật phim: 10
+event - đi đá bóng: 5
+event - rửa bát: 11
+event - khách tới nhà: 14
+event - cắt tóc: 5
+location - <place>: 130
+participants - lớp: 20
+participants - công ty: 26
+participants - <human_name>: 22
+participants - bạn bè: 23
+participants - gia đình: 16
+participants - <human_name> và <human_name>: 14
+participants - đội bóng: 21
+Bật nhạc:
+timeAt - <hour_timeAt>: 121
+delay_duration - <hour_duration>: 137
+continuous_duration - <hour_duration>: 134
+song - <song_gerne>: 38
+song - <century_int> s: 29
+song - <trending>: 38
+song - <song_name>: 32
+singer - <singer_name>: 127
+Tra công thức nấu ăn:
+timeAt - <timeAt>: 124
+delay_duration - <hour_duration>: 120
+meal - bữa tối: 23
+meal - điểm tâm: 21
+meal - bữa lỡ: 20
+meal - bữa trưa: 18
+meal - bữa sáng: 21
+meal - ăn khuya: 15
+ingredient - hành lá: 10
+ingredient - thịt bò: 17
+ingredient - tôm hùm: 6
+ingredient - sò điệp: 9
+ingredient - mật ong: 10
+ingredient - salad: 7
+ingredient - cá hồi: 11
+ingredient - thịt lợn: 12
+ingredient - cua hoàng đế: 8
+ingredient - gà đồi: 8
+ingredient - hàu: 10
+ingredient - trứng cá tầm: 12
+ingredient - cá ngừ: 7
+ingredient - hành tây: 6
+dish_name - bít tết: 4
+dish_name - bánh: 12
+dish_name - kho quẹt: 7
+dish_name - cuốn: 12
+dish_name - gỏi: 19
+dish_name - súp: 17
+dish_name - mì ý: 10
+dish_name - salad: 16
+dish_name - cơm: 11
+dish_name - bún: 15
+dish_name - lasagna: 22
+cooking_time - <hour_duration>: 124
+method - xào: 11
+method - hấp: 7
+method - quay: 15
+method - rán: 17
+method - luộc: 16
+method - trộn: 14
+method - sốt: 16
+method - nướng: 13
+method - chiên : 6
+method - hầm: 14
+condition - chay: 20
+condition - thơm: 23
+condition - ngọt: 19
+condition - cay: 21
+condition - mặn: 21
+condition - chua ngọt: 13
+occasion - kỉ niệm ngày cưới: 12
+occasion - <human_name> tới nhà: 9
+occasion - cầu hôn: 14
+occasion - lễ tốt nghiệp: 14
+occasion - thành lập công ty: 12
+occasion - sinh nhật: 14
+occasion - buổi hẹn đầu tiên: 13
+occasion - tỏ tình: 15
+occasion - tân gia: 7
+occasion - lễ mừng thọ: 17
+occasion - sinh nhật của <human_name>: 15
+number_of_servings - <int>: 120
+Đặt lịch:
+timeAt - <timeAt>: 109
+delay_duration - <duration>: 113
+continuous_duration - <duration>: 117
+event - đi họp: 21
+event - đi ăn: 7
+event - đi làm: 8
+event - đi đá bóng: 13
+event - xem phim: 8
+event - nấu ăn: 8
+event - khách tới nhà: 13
+event - gửi mail: 6
+event - giặt quần áo: 18
+event - đi chơi: 11
+event - dậy: 17
+event - đi ngủ: 15
+event - rửa bát: 12
+event - đi học: 7
+event - bật phim: 13
+event - tưới cây: 3
+event - lau nhà: 7
+event - cắt tóc: 9
+repeat - <hour_duration>: 114
+participants - gia đình: 12
+participants - <human_name> và <human_name>: 19
+participants - công ty: 15
+participants - bạn bè: 22
+participants - lớp: 13
+participants - đội bóng: 20
+participants - <human_name>: 11
+remind_duration - <hour_duration>: 116
+location - <place>: 125
+event_timeAt - <timeAt>: 124
+Gọi taxi:
+timeAt - <hour_timeAt>: 126
+delay_duration - <hour_duration>: 127
+brand - Airport Hà Nội: 14
+brand - Hoàng Hợp: 15
+brand - Group: 14
+brand - G7: 8
+brand - Thanh Nga: 12
+brand - Hà Nội Tourist: 20
+brand - Thủ Đô: 16
+brand - Vinasun: 10
+brand - ABC: 15
+brand - Thăng Long: 21
+brand - Long Biên: 11
+brand - Xanh SM: 9
+brand - Mai Linh: 14
+brand - Vic: 14
+pickup_location - <place>: 37
+pickup_location - <place>, <address>: 42
+pickup_location - <address>: 46
+dropoff_location - <place>, <address>: 38
+dropoff_location - <place>: 48
+dropoff_location - <address>: 31
+number_of_passengers - 4.0: 14
+number_of_passengers - 6.0: 11
+number_of_passengers - 1.0: 11
+number_of_passengers - 2.0: 26
+number_of_passengers - 7.0: 20
+number_of_passengers - 3.0: 11
+number_of_passengers - 5.0: 17
+number_of_passengers - 8.0: 14
+type (premium, …) - hạng sang: 49
+type (premium, …) - tiêu chuẩn: 73
+tra cứu đường đi:
+timeAt - <hour_timeAt>: 128
+delay_duration - <hour_duration>: 126
+destination - <place>: 66
+destination - <address>: 61
+distance - <int>km: 124
+travel_duration - <duration>: 123
+transport_type - ô tô: 14
+transport_type - đi bộ: 13
+transport_type - xe buýt: 26
+transport_type - tàu điện: 21
+transport_type - xe đạp: 23
+transport_type - xe lăn: 15
+transport_type - taxi: 14
+transport_type - xe máy: 17
+Đặt vé:
+timeAt - <timeAt>: 127
+delay_duration - <duration>: 127
+departure_location - <province>: 117
+arrival_location - <airport>: 58
+arrival_location - <province>: 70
+number_of_passengers - 8: 8
+number_of_passengers - 13: 10
+number_of_passengers - 2: 8
+number_of_passengers - 1: 17
+number_of_passengers - 5: 11
+number_of_passengers - 10: 10
+number_of_passengers - 7: 9
+number_of_passengers - 16: 9
+number_of_passengers - 14: 2
+number_of_passengers - 9: 12
+number_of_passengers - 6: 9
+number_of_passengers - 15: 8
+number_of_passengers - 4: 10
+number_of_passengers - 11: 9
+number_of_passengers - 3: 10
+number_of_passengers - 12: 11
+payment_method - momo: 21
+payment_method - thẻ ngân hàng: 19
+payment_method - tiền mặt: 20
+payment_method - chuyển khoản ngân hàng: 15
+payment_method - vnpay: 27
+payment_method - thẻ tín dụng: 21
+type - thường: 23
+type - vip: 20
+type - cho phép thú cưng: 27
+type - trẻ em: 22
+type - thương gia: 15
+type - hút thuốc: 12
+transport_type - tàu hỏa: 25
+transport_type - xuồng: 17
+transport_type - xe buýt: 23
+transport_type - tàu thủy: 14
+transport_type - ô tô: 14
+transport_type - máy bay: 15
+transport_type - ca nô: 19
+transport_type - tàu điện: 15
+departure_timeAt - <timeAt>: 129
+Gợi ý phim:
+timeAt - sáng ngày <day_int>: 18
+timeAt - <hour_timeAt>: 26
+timeAt - trưa ngày <day_int>: 27
+timeAt - tối ngày <day_int>: 24
+timeAt - chiều ngày <day_int>: 26
+delay_duration - <duration>: 113
+continuous_duration - <duration>: 129
+actor - <actor>: 110
+genre - tội phạm: 9
+genre - viễn tây: 10
+genre - siêu anh hùng: 6
+genre - kinh dị: 10
+genre - viễn tưởng: 10
+genre - tình cảm: 13
+genre - ca nhạc: 23
+genre - kịch tính: 13
+genre - hoạt hình: 10
+genre - lịch sử: 14
+genre - hài: 18
+genre - thiếu nhi: 13
+genre - chiến tranh: 8
+genre - hành động: 13
+genre - tài liệu: 8
+language - tiếng tây ban nha: 15
+language - tiếng nhật: 21
+language - tiếng đức: 24
+language - tiếng trung: 21
+language - tiếng hàn: 15
+language - tiếng anh: 17
+language - tiếng việt: 16
+rating - <rating_int>: 116
+movie_duration - <hour_duration>: 123
+gợi ý địa điểm:
+timeAt - <timeAt>: 122
+delay_duration - <hour_duration>: 129
+activity - giải trí: 14
+activity - hẹn hò: 17
+activity - uống cafe: 11
+activity - dã ngoại: 9
+activity - đọc sách: 23
+activity - đi chợ: 11
+activity - làm việc: 11
+activity - ăn uống: 9
+activity - thể thao: 9
+activity - bơi lội: 10
+activity - họp nhóm: 15
+activity - tự học: 21
+activity - ăn cơm: 4
+activity - học tập: 15
+activity - tập gym: 6
+activity - xem phim: 29
+activity - mua sắm: 10
+activity - vui chơi: 6
+ocassion - kỉ niệm: 33
+ocassion - sinh nhật: 42
+ocassion - gặp mặt: 49
+area - gần nhà: 16
+area - gần <place>: 17
+area - <province>: 18
+area - đoạn <street>: 22
+area - <district>: 13
+area - khu <university>: 14
+area - gần phố <street>: 23
+area - phố <street>: 14
+area - Times City: 19
+distance - <int> km: 130
+Xóa lịch:
+timeAt - <timeAt>: 133
+delay_duration - <min_int> phút: 68
+delay_duration - <hour_int> tiếng <min_int> phút: 60
+event - đi dã ngoại: 18
+event - xem phim: 17
+event - ăn uống: 27
+event - gặp đối tác: 9
+event - học tập: 19
+event - gặp bạn bè: 12
+event - làm việc: 16
+event - đi leo núi: 22
+event - đi chơi: 13
+event - họp: 15
+event - đi cafe: 19
+event_timeAt - <timeAt>: 33
+event_timeAt - tháng trước: 44
+event_timeAt - <month_timeAt>: 29
+event_timeAt - tháng tới: 40
+Liên hệ:
+timeAt - <timeAt>: 31
+timeAt - ngày mai: 36
+timeAt - ngày kia: 31
+timeAt - ngay bây giờ: 30
+delay_duration - <duration>: 120
+continuous_duration - <duration>: 113
+phone_number - <phone_number>: 120
+email - minh.vd@sis.hust.edu.vn: 40
+email - vuducminh@gmail.com: 26
+email - khanhlt@gmail.com: 25
+email - minh@yahoo.com: 29
+person - bố tôi: 25
+person - sếp <human_name>: 26
+person - mẹ tôi: 32
+person - bạn <human_name>: 21
+person - <human_name>: 24
+đặt đồ ăn:
+timeAt - ngày mai: 33
+timeAt - ngay bây giờ: 41
+timeAt - <timeAt>: 40
+delay_duration - <duration>: 126
+dish_name - <dish_name>: 59
+dish_name - <desert>: 62
+meal - điểm tâm: 23
+meal - ăn khuya: 16
+meal - bữa tối: 25
+meal - bữa trưa: 19
+meal - bữa sáng: 17
+meal - bữa lỡ: 24
+number_of_serving - <int>: 120
+condition - lạnh: 33
+condition - nguội: 43
+condition - nóng: 40
+occasion - ăn tiệc: 39
+occasion - liên hoan: 42
+occasion - sinh nhật: 42
+location - <address>: 109
+Hỏi thông tin:
+timeAt - ngay bây giờ: 31
+timeAt - ngày kia: 39
+timeAt - ngày mai: 34
+timeAt - <timeAt>: 25
+delay_duration - <duration>: 134
+keyword - lịch học: 21
+keyword - giá xăng: 17
+keyword - giá vàng: 17
+keyword - cổ phiếu: 16
+keyword - lịch phát sóng: 21
+keyword - thời sự: 22
+keyword - lịch chiếu phim: 19
+keyword - lịch thi đấu bóng đá: 23
+keyword - thời tiết: 14
+keyword_timeAt - tháng trước: 12
+keyword_timeAt - <timeAt>: 21
+keyword_timeAt - ngày kia: 27
+keyword_timeAt - tháng sau: 31
+keyword_timeAt - hôm qua: 20
+keyword_timeAt - ngay bây giờ: 22
+keyword_timeAt - ngày mai: 23
+Tra cứu thời tiết:
+timeAt - lát nữa: 49
+timeAt - bây giờ: 38
+timeAt - <timeAt>: 39
+delay_duration - <duration>: 120
+weather_descriptor - bão: 16
+weather_descriptor - sương mù: 17
+weather_descriptor - mưa: 17
+weather_descriptor - nhiều mây: 16
+weather_descriptor - đẹp: 25
+weather_descriptor - nồm: 15
+weather_descriptor - nắng: 19
+weather_descriptor - oi: 14
+weather_descriptor - giông: 13
+weather_descriptor - lạnh: 15
+location - <province>: 30
+location - <place>: 34
+location - <district>: 31
+location - <country>: 31
+weather_timeAt - cuối <day_timeAt>: 16
+weather_timeAt - <buổi> <day_timeAt>: 21
+weather_timeAt - cuối tháng: 28
+weather_timeAt - <timeAt>: 19
+weather_timeAt - nửa đêm: 26
+weather_timeAt - cuối tuần: 16
+weather_duration - <duration>: 120
+Tra cứu lịch:
+timeAt - <timeAt>: 126
+delay_duration - <duration>: 122
+event_timeAt - <timeAt>: 115
+event - giặt quần áo: 22
+event - lau nhà: 21
+event - đi chơi: 14
+event - đi học: 26
+event - đi ngủ: 13
+event - tưới cây: 11
+event - đi đá bóng: 8
+event - ngủ dậy: 24
+event - đi họp: 7
+event - rửa bát: 23
+event - khách tới nhà: 23
+event - đi ăn: 12
+event - bật phim: 12
+event - gửi mail: 10
+event - đi làm: 12
+event - xem phim: 21
+event - cắt tóc: 16
+event - nấu ăn: 18
+location - <place>: 111
+participants - công ty: 18
+participants - bạn bè: 19
+participants - gia đình: 21
+participants - <human_name> và <human_name>: 27
+participants - lớp: 13
+participants - đội bóng: 21
+participants - <human_name>: 11
+Bật nhạc:
+timeAt - <hour_timeAt>: 132
+delay_duration - <hour_duration>: 116
+continuous_duration - <hour_duration>: 122
+song - <song_gerne>: 37
+song - <trending>: 27
+song - <century_int> s: 22
+song - <song_name>: 40
+singer - <singer_name>: 131
+Tra công thức nấu ăn:
+timeAt - <timeAt>: 120
+delay_duration - <hour_duration>: 119
+meal - bữa tối: 16
+meal - điểm tâm: 18
+meal - ăn khuya: 18
+meal - bữa sáng: 26
+meal - bữa trưa: 22
+meal - bữa lỡ: 20
+ingredient - hành lá: 16
+ingredient - cá ngừ: 17
+ingredient - trứng cá tầm: 15
+ingredient - tôm hùm: 10
+ingredient - salad: 13
+ingredient - cua hoàng đế: 15
+ingredient - hành tây: 12
+ingredient - cá hồi: 12
+ingredient - thịt lợn: 12
+ingredient - gà đồi: 8
+ingredient - mật ong: 12
+ingredient - hàu: 11
+ingredient - sò điệp: 11
+ingredient - thịt bò: 13
+dish_name - bánh: 18
+dish_name - bún: 11
+dish_name - súp: 16
+dish_name - kho quẹt: 11
+dish_name - gỏi: 19
+dish_name - cuốn: 7
+dish_name - mì ý: 12
+dish_name - lasagna: 4
+dish_name - bít tết: 14
+dish_name - salad: 13
+dish_name - cơm: 8
+cooking_time - <hour_duration>: 131
+method - quay: 25
+method - sốt: 10
+method - hấp: 11
+method - luộc: 14
+method - xào: 11
+method - trộn: 14
+method - chiên : 19
+method - hầm: 15
+method - nướng: 16
+method - rán: 15
+condition - mặn: 21
+condition - thơm: 20
+condition - chua ngọt: 16
+condition - chay: 16
+condition - cay: 20
+condition - ngọt: 18
+occasion - buổi hẹn đầu tiên: 14
+occasion - sinh nhật của <human_name>: 13
+occasion - lễ mừng thọ: 12
+occasion - cầu hôn: 17
+occasion - kỉ niệm ngày cưới: 21
+occasion - thành lập công ty: 9
+occasion - lễ tốt nghiệp: 10
+occasion - sinh nhật: 12
+occasion - tân gia: 9
+occasion - <human_name> tới nhà: 11
+occasion - tỏ tình: 4
+number_of_servings - <int>: 122
+Đặt lịch:
+timeAt - <timeAt>: 118
+delay_duration - <duration>: 120
+continuous_duration - <duration>: 134
+event - đi ăn: 7
+event - đi đá bóng: 12
+event - đi họp: 12
+event - bật phim: 12
+event - đi làm: 13
+event - tưới cây: 13
+event - rửa bát: 24
+event - đi ngủ: 21
+event - đi học: 8
+event - lau nhà: 7
+event - xem phim: 20
+event - dậy: 12
+event - giặt quần áo: 7
+event - khách tới nhà: 11
+event - cắt tóc: 8
+event - nấu ăn: 10
+event - đi chơi: 6
+event - gửi mail: 6
+repeat - <hour_duration>: 131
+participants - công ty: 25
+participants - <human_name> và <human_name>: 17
+participants - <human_name>: 20
+participants - bạn bè: 18
+participants - lớp: 14
+participants - gia đình: 16
+participants - đội bóng: 15
+remind_duration - <hour_duration>: 121
+location - <place>: 121
+event_timeAt - <timeAt>: 118
+Gọi taxi:
+timeAt - <hour_timeAt>: 138
+delay_duration - <hour_duration>: 123
+brand - ABC: 11
+brand - Thủ Đô: 10
+brand - Thanh Nga: 9
+brand - Hoàng Hợp: 18
+brand - Hà Nội Tourist: 15
+brand - Airport Hà Nội: 11
+brand - Thăng Long: 16
+brand - Long Biên: 17
+brand - Mai Linh: 20
+brand - Vinasun: 6
+brand - Group: 10
+brand - Vic: 16
+brand - G7: 14
+brand - Xanh SM: 11
+pickup_location - <address>: 41
+pickup_location - <place>, <address>: 38
+pickup_location - <place>: 40
+dropoff_location - <address>: 59
+dropoff_location - <place>: 36
+dropoff_location - <place>, <address>: 38
+number_of_passengers - 3.0: 16
+number_of_passengers - 4.0: 19
+number_of_passengers - 6.0: 10
+number_of_passengers - 1.0: 17
+number_of_passengers - 8.0: 13
+number_of_passengers - 5.0: 17
+number_of_passengers - 2.0: 20
+number_of_passengers - 7.0: 15
+type (premium, …) - tiêu chuẩn: 63
+type (premium, …) - hạng sang: 58
+tra cứu đường đi:
+timeAt - <hour_timeAt>: 122
+delay_duration - <hour_duration>: 132
+destination - <address>: 64
+destination - <place>: 66
+distance - <int>km: 122
+travel_duration - <duration>: 114
+transport_type - xe lăn: 14
+transport_type - đi bộ: 20
+transport_type - xe buýt: 21
+transport_type - tàu điện: 20
+transport_type - xe đạp: 19
+transport_type - taxi: 23
+transport_type - xe máy: 14
+transport_type - ô tô: 17
+Đặt vé:
+timeAt - <timeAt>: 128
+delay_duration - <duration>: 112
+departure_location - <province>: 136
+arrival_location - <province>: 71
+arrival_location - <airport>: 52
+number_of_passengers - 9: 12
+number_of_passengers - 10: 9
+number_of_passengers - 13: 14
+number_of_passengers - 3: 10
+number_of_passengers - 12: 14
+number_of_passengers - 14: 13
+number_of_passengers - 8: 11
+number_of_passengers - 2: 10
+number_of_passengers - 6: 8
+number_of_passengers - 15: 8
+number_of_passengers - 11: 11
+number_of_passengers - 4: 9
+number_of_passengers - 7: 8
+number_of_passengers - 16: 11
+number_of_passengers - 5: 17
+number_of_passengers - 1: 9
+payment_method - chuyển khoản ngân hàng: 26
+payment_method - momo: 19
+payment_method - tiền mặt: 15
+payment_method - thẻ tín dụng: 14
+payment_method - thẻ ngân hàng: 24
+payment_method - vnpay: 23
+type - cho phép thú cưng: 25
+type - vip: 21
+type - hút thuốc: 19
+type - trẻ em: 23
+type - thường: 19
+type - thương gia: 15
+transport_type - xuồng: 9
+transport_type - tàu thủy: 20
+transport_type - tàu điện: 14
+transport_type - tàu hỏa: 15
+transport_type - xe buýt: 13
+transport_type - máy bay: 19
+transport_type - ca nô: 15
+transport_type - ô tô: 19
+departure_timeAt - <timeAt>: 118
+Gợi ý phim:
+timeAt - chiều ngày <day_int>: 32
+timeAt - trưa ngày <day_int>: 28
+timeAt - <hour_timeAt>: 20
+timeAt - tối ngày <day_int>: 31
+timeAt - sáng ngày <day_int>: 19
+delay_duration - <duration>: 128
+continuous_duration - <duration>: 116
+actor - <actor>: 120
+genre - hoạt hình: 12
+genre - siêu anh hùng: 14
+genre - tội phạm: 5
+genre - hài: 11
+genre - kịch tính: 10
+genre - tình cảm: 13
+genre - viễn tưởng: 13
+genre - lịch sử: 6
+genre - kinh dị: 12
+genre - viễn tây: 9
+genre - hành động: 18
+genre - tài liệu: 15
+genre - chiến tranh: 10
+genre - ca nhạc: 10
+genre - thiếu nhi: 6
+language - tiếng anh: 19
+language - tiếng việt: 24
+language - tiếng nhật: 25
+language - tiếng hàn: 17
+language - tiếng tây ban nha: 14
+language - tiếng trung: 16
+language - tiếng đức: 18
+rating - <rating_int>: 128
+movie_duration - <hour_duration>: 123
+gợi ý địa điểm:
+timeAt - <timeAt>: 136
+delay_duration - <hour_duration>: 130
+activity - ăn cơm: 14
+activity - uống cafe: 11
+activity - ăn uống: 15
+activity - bơi lội: 9
+activity - học tập: 15
+activity - vui chơi: 21
+activity - hẹn hò: 18
+activity - thể thao: 12
+activity - đọc sách: 11
+activity - họp nhóm: 18
+activity - xem phim: 12
+activity - tự học: 23
+activity - tập gym: 9
+activity - giải trí: 20
+activity - mua sắm: 19
+activity - đi chợ: 4
+activity - dã ngoại: 14
+activity - làm việc: 6
+ocassion - kỉ niệm: 50
+ocassion - sinh nhật: 38
+ocassion - gặp mặt: 45
+area - gần nhà: 18
+area - gần <place>: 16
+area - đoạn <street>: 13
+area - <province>: 19
+area - <district>: 16
+area - Times City: 15
+area - phố <street>: 13
+area - khu <university>: 20
+area - gần phố <street>: 10
+distance - <int> km: 124
+Xóa lịch:
+timeAt - <timeAt>: 137
+delay_duration - <hour_int> tiếng <min_int> phút: 68
+delay_duration - <min_int> phút: 67
+event - đi cafe: 14
+event - đi leo núi: 15
+event - xem phim: 14
+event - gặp đối tác: 15
+event - đi chơi: 14
+event - ăn uống: 20
+event - đi dã ngoại: 12
+event - họp: 17
+event - làm việc: 22
+event - gặp bạn bè: 14
+event - học tập: 15
+event_timeAt - tháng tới: 38
+event_timeAt - <timeAt>: 37
+event_timeAt - <month_timeAt>: 33
+event_timeAt - tháng trước: 30
+Liên hệ:
+timeAt - ngày kia: 32
+timeAt - <timeAt>: 28
+timeAt - ngày mai: 35
+timeAt - ngay bây giờ: 32
+delay_duration - <duration>: 128
+continuous_duration - <duration>: 125
+phone_number - <phone_number>: 129
+email - minh@yahoo.com: 43
+email - khanhlt@gmail.com: 32
+email - minh.vd@sis.hust.edu.vn: 35
+email - vuducminh@gmail.com: 31
+person - bố tôi: 32
+person - bạn <human_name>: 23
+person - <human_name>: 29
+person - mẹ tôi: 22
+person - sếp <human_name>: 29
+đặt đồ ăn:
+timeAt - ngay bây giờ: 42
+timeAt - ngày mai: 36
+timeAt - <timeAt>: 40
+delay_duration - <duration>: 120
+dish_name - <desert>: 57
+dish_name - <dish_name>: 57
+meal - bữa tối: 25
+meal - điểm tâm: 19
+meal - bữa lỡ: 27
+meal - bữa trưa: 16
+meal - bữa sáng: 21
+meal - ăn khuya: 12
+number_of_serving - <int>: 123
+condition - nguội: 46
+condition - nóng: 53
+condition - lạnh: 31
+occasion - ăn tiệc: 41
+occasion - sinh nhật: 42
+occasion - liên hoan: 39
+location - <address>: 111
+Hỏi thông tin:
+timeAt - ngày kia: 39
+timeAt - ngay bây giờ: 36
+timeAt - <timeAt>: 36
+timeAt - ngày mai: 36
+delay_duration - <duration>: 139
+keyword - thời sự: 14
+keyword - cổ phiếu: 24
+keyword - thời tiết: 20
+keyword - giá vàng: 14
+keyword - lịch phát sóng: 19
+keyword - lịch thi đấu bóng đá: 17
+keyword - giá xăng: 15
+keyword - lịch chiếu phim: 23
+keyword - lịch học: 21
+keyword_timeAt - hôm qua: 14
+keyword_timeAt - tháng trước: 22
+keyword_timeAt - <timeAt>: 28
+keyword_timeAt - ngày mai: 20
+keyword_timeAt - ngày kia: 19
+keyword_timeAt - tháng sau: 20
+keyword_timeAt - ngay bây giờ: 17
+Tra cứu thời tiết:
+timeAt - <timeAt>: 37
+timeAt - bây giờ: 42
+timeAt - lát nữa: 41
+delay_duration - <duration>: 123
+weather_descriptor - đẹp: 27
+weather_descriptor - nhiều mây: 18
+weather_descriptor - nồm: 21
+weather_descriptor - nắng: 15
+weather_descriptor - giông: 12
+weather_descriptor - mưa: 13
+weather_descriptor - sương mù: 21
+weather_descriptor - lạnh: 10
+weather_descriptor - oi: 22
+weather_descriptor - bão: 10
+location - <district>: 36
+location - <province>: 32
+location - <place>: 34
+location - <country>: 32
+weather_timeAt - cuối <day_timeAt>: 25
+weather_timeAt - <timeAt>: 19
+weather_timeAt - cuối tháng: 20
+weather_timeAt - cuối tuần: 23
+weather_timeAt - nửa đêm: 18
+weather_timeAt - <buổi> <day_timeAt>: 26
+weather_duration - <duration>: 124
+Tra cứu lịch:
+timeAt - <timeAt>: 132
+delay_duration - <duration>: 132
+event_timeAt - <timeAt>: 119
+event - đi làm: 12
+event - đi ăn: 20
+event - đi học: 8
+event - gửi mail: 8
+event - bật phim: 25
+event - tưới cây: 26
+event - khách tới nhà: 12
+event - lau nhà: 24
+event - đi họp: 22
+event - giặt quần áo: 18
+event - ngủ dậy: 12
+event - đi ngủ: 23
+event - rửa bát: 22
+event - đi đá bóng: 21
+event - nấu ăn: 8
+event - cắt tóc: 5
+event - xem phim: 10
+event - đi chơi: 9
+location - <place>: 120
+participants - <human_name> và <human_name>: 16
+participants - lớp: 25
+participants - đội bóng: 25
+participants - <human_name>: 23
+participants - công ty: 24
+participants - gia đình: 18
+participants - bạn bè: 17
+Bật nhạc:
+timeAt - <hour_timeAt>: 124
+delay_duration - <hour_duration>: 115
+continuous_duration - <hour_duration>: 114
+song - <song_gerne>: 26
+song - <trending>: 30
+song - <century_int> s: 38
+song - <song_name>: 27
+singer - <singer_name>: 121
+Tra công thức nấu ăn:
+timeAt - <timeAt>: 109
+delay_duration - <hour_duration>: 109
+meal - bữa trưa: 16
+meal - điểm tâm: 17
+meal - bữa lỡ: 13
+meal - bữa sáng: 22
+meal - bữa tối: 25
+meal - ăn khuya: 21
+ingredient - thịt lợn: 9
+ingredient - thịt bò: 11
+ingredient - cua hoàng đế: 9
+ingredient - cá hồi: 15
+ingredient - cá ngừ: 20
+ingredient - hành lá: 17
+ingredient - tôm hùm: 10
+ingredient - mật ong: 13
+ingredient - hàu: 4
+ingredient - gà đồi: 12
+ingredient - salad: 16
+ingredient - hành tây: 13
+ingredient - trứng cá tầm: 13
+ingredient - sò điệp: 5
+dish_name - kho quẹt: 13
+dish_name - bít tết: 8
+dish_name - bánh: 13
+dish_name - cuốn: 19
+dish_name - lasagna: 10
+dish_name - súp: 14
+dish_name - gỏi: 9
+dish_name - salad: 16
+dish_name - mì ý: 14
+dish_name - cơm: 13
+dish_name - bún: 12
+cooking_time - <hour_duration>: 109
+method - hầm: 21
+method - trộn: 9
+method - rán: 12
+method - sốt: 8
+method - chiên : 8
+method - luộc: 17
+method - xào: 10
+method - nướng: 9
+method - hấp: 13
+method - quay: 13
+condition - chay: 15
+condition - mặn: 21
+condition - chua ngọt: 19
+condition - thơm: 24
+condition - ngọt: 26
+condition - cay: 10
+occasion - tỏ tình: 16
+occasion - lễ tốt nghiệp: 12
+occasion - buổi hẹn đầu tiên: 14
+occasion - cầu hôn: 10
+occasion - thành lập công ty: 18
+occasion - kỉ niệm ngày cưới: 13
+occasion - lễ mừng thọ: 11
+occasion - <human_name> tới nhà: 10
+occasion - sinh nhật của <human_name>: 9
+occasion - sinh nhật: 16
+occasion - tân gia: 10
+number_of_servings - <int>: 99
+Đặt lịch:
+timeAt - <timeAt>: 117
+delay_duration - <duration>: 101
+continuous_duration - <duration>: 116
+event - đi ngủ: 10
+event - tưới cây: 8
+event - đi làm: 11
+event - đi ăn: 20
+event - nấu ăn: 13
+event - bật phim: 11
+event - cắt tóc: 5
+event - đi họp: 11
+event - xem phim: 19
+event - dậy: 8
+event - gửi mail: 9
+event - giặt quần áo: 7
+event - đi học: 9
+event - đi đá bóng: 11
+event - đi chơi: 7
+event - lau nhà: 11
+event - rửa bát: 5
+event - khách tới nhà: 4
+repeat - <hour_duration>: 112
+participants - đội bóng: 17
+participants - gia đình: 19
+participants - công ty: 16
+participants - <human_name> và <human_name>: 16
+participants - bạn bè: 18
+participants - lớp: 18
+participants - <human_name>: 13
+remind_duration - <hour_duration>: 117
+location - <place>: 129
+event_timeAt - <timeAt>: 114
+Gọi taxi:
+timeAt - <hour_timeAt>: 133
+delay_duration - <hour_duration>: 121
+brand - Thủ Đô: 20
+brand - G7: 23
+brand - Thăng Long: 13
+brand - Mai Linh: 14
+brand - Vic: 7
+brand - Hoàng Hợp: 12
+brand - Thanh Nga: 16
+brand - Long Biên: 8
+brand - Xanh SM: 11
+brand - Airport Hà Nội: 14
+brand - Vinasun: 17
+brand - Group: 6
+brand - Hà Nội Tourist: 7
+brand - ABC: 5
+pickup_location - <place>, <address>: 47
+pickup_location - <place>: 46
+pickup_location - <address>: 38
+dropoff_location - <place>, <address>: 46
+dropoff_location - <address>: 41
+dropoff_location - <place>: 40
+number_of_passengers - 1.0: 16
+number_of_passengers - 4.0: 18
+number_of_passengers - 6.0: 18
+number_of_passengers - 8.0: 18
+number_of_passengers - 5.0: 19
+number_of_passengers - 3.0: 14
+number_of_passengers - 7.0: 24
+number_of_passengers - 2.0: 22
+type (premium, …) - hạng sang: 65
+type (premium, …) - tiêu chuẩn: 63
+tra cứu đường đi:
+timeAt - <hour_timeAt>: 136
+delay_duration - <hour_duration>: 121
+destination - <place>: 60
+destination - <address>: 69
+distance - <int>km: 128
+travel_duration - <duration>: 112
+transport_type - đi bộ: 16
+transport_type - tàu điện: 18
+transport_type - xe máy: 18
+transport_type - xe buýt: 15
+transport_type - xe đạp: 21
+transport_type - xe lăn: 15
+transport_type - taxi: 21
+transport_type - ô tô: 21
+Đặt vé:
+timeAt - <timeAt>: 124
+delay_duration - <duration>: 122
+departure_location - <province>: 124
+arrival_location - <province>: 62
+arrival_location - <airport>: 65
+number_of_passengers - 1: 20
+number_of_passengers - 4: 16
+number_of_passengers - 7: 7
+number_of_passengers - 3: 8
+number_of_passengers - 2: 21
+number_of_passengers - 13: 12
+number_of_passengers - 9: 8
+number_of_passengers - 6: 7
+number_of_passengers - 12: 22
+number_of_passengers - 16: 17
+number_of_passengers - 8: 8
+number_of_passengers - 11: 9
+number_of_passengers - 14: 7
+number_of_passengers - 15: 11
+number_of_passengers - 10: 23
+number_of_passengers - 5: 6
+payment_method - thẻ tín dụng: 22
+payment_method - chuyển khoản ngân hàng: 20
+payment_method - tiền mặt: 25
+payment_method - thẻ ngân hàng: 18
+payment_method - momo: 26
+payment_method - vnpay: 14
+type - thường: 22
+type - trẻ em: 26
+type - vip: 24
+type - thương gia: 12
+type - cho phép thú cưng: 19
+type - hút thuốc: 17
+transport_type - tàu hỏa: 12
+transport_type - tàu thủy: 16
+transport_type - ô tô: 18
+transport_type - xe buýt: 14
+transport_type - xuồng: 16
+transport_type - tàu điện: 15
+transport_type - máy bay: 18
+transport_type - ca nô: 12
+departure_timeAt - <timeAt>: 118
+Gợi ý phim:
+timeAt - tối ngày <day_int>: 25
+timeAt - <hour_timeAt>: 22
+timeAt - trưa ngày <day_int>: 29
+timeAt - sáng ngày <day_int>: 26
+timeAt - chiều ngày <day_int>: 24
+delay_duration - <duration>: 129
+continuous_duration - <duration>: 138
+actor - <actor>: 136
+genre - hoạt hình: 8
+genre - kịch tính: 10
+genre - thiếu nhi: 17
+genre - lịch sử: 17
+genre - tình cảm: 17
+genre - tội phạm: 6
+genre - viễn tây: 18
+genre - tài liệu: 10
+genre - kinh dị: 15
+genre - chiến tranh: 9
+genre - siêu anh hùng: 6
+genre - viễn tưởng: 9
+genre - hành động: 11
+genre - hài: 2
+genre - ca nhạc: 10
+language - tiếng trung: 22
+language - tiếng nhật: 21
+language - tiếng tây ban nha: 17
+language - tiếng hàn: 17
+language - tiếng anh: 24
+language - tiếng đức: 14
+language - tiếng việt: 14
+rating - <rating_int>: 123
+movie_duration - <hour_duration>: 127
+gợi ý địa điểm:
+timeAt - <timeAt>: 126
+delay_duration - <hour_duration>: 127
+activity - ăn uống: 28
+activity - làm việc: 10
+activity - mua sắm: 8
+activity - vui chơi: 24
+activity - đọc sách: 13
+activity - tập gym: 10
+activity - dã ngoại: 15
+activity - ăn cơm: 20
+activity - hẹn hò: 22
+activity - uống cafe: 18
+activity - họp nhóm: 19
+activity - đi chợ: 12
+activity - tự học: 10
+activity - học tập: 12
+activity - xem phim: 9
+activity - giải trí: 4
+activity - thể thao: 9
+activity - bơi lội: 4
+ocassion - kỉ niệm: 37
+ocassion - gặp mặt: 39
+ocassion - sinh nhật: 35
+area - <province>: 24
+area - phố <street>: 23
+area - gần nhà: 15
+area - gần phố <street>: 14
+area - khu <university>: 11
+area - gần <place>: 23
+area - Times City: 12
+area - đoạn <street>: 15
+area - <district>: 14
+distance - <int> km: 124
+Xóa lịch:
+timeAt - <timeAt>: 144
+delay_duration - <min_int> phút: 69
+delay_duration - <hour_int> tiếng <min_int> phút: 71
+event - đi chơi: 24
+event - đi cafe: 19
+event - ăn uống: 25
+event - họp: 18
+event - làm việc: 22
+event - gặp đối tác: 15
+event - đi leo núi: 18
+event - xem phim: 15
+event - gặp bạn bè: 13
+event - học tập: 8
+event - đi dã ngoại: 11
+event_timeAt - tháng tới: 32
+event_timeAt - <month_timeAt>: 37
+event_timeAt - tháng trước: 43
+event_timeAt - <timeAt>: 30
+Liên hệ:
+timeAt - <timeAt>: 26
+timeAt - ngày kia: 32
+timeAt - ngày mai: 42
+timeAt - ngay bây giờ: 30
+delay_duration - <duration>: 136
+continuous_duration - <duration>: 121
+phone_number - <phone_number>: 120
+email - khanhlt@gmail.com: 39
+email - minh@yahoo.com: 23
+email - vuducminh@gmail.com: 38
+email - minh.vd@sis.hust.edu.vn: 32
+person - <human_name>: 22
+person - sếp <human_name>: 25
+person - bạn <human_name>: 23
+person - mẹ tôi: 32
+person - bố tôi: 28
+đặt đồ ăn:
+timeAt - ngay bây giờ: 44
+timeAt - <timeAt>: 42
+timeAt - ngày mai: 48
+delay_duration - <duration>: 117
+dish_name - <dish_name>: 67
+dish_name - <desert>: 55
+meal - điểm tâm: 24
+meal - bữa tối: 17
+meal - bữa sáng: 20
+meal - bữa lỡ: 17
+meal - ăn khuya: 22
+meal - bữa trưa: 19
+number_of_serving - <int>: 129
+condition - lạnh: 40
+condition - nóng: 46
+condition - nguội: 44
+occasion - liên hoan: 50
+occasion - ăn tiệc: 44
+occasion - sinh nhật: 37
+location - <address>: 116
+Hỏi thông tin:
+timeAt - ngày kia: 35
+timeAt - ngày mai: 37
+timeAt - <timeAt>: 41
+timeAt - ngay bây giờ: 28
+delay_duration - <duration>: 138
+keyword - lịch chiếu phim: 22
+keyword - lịch phát sóng: 21
+keyword - thời sự: 19
+keyword - thời tiết: 14
+keyword - cổ phiếu: 20
+keyword - giá vàng: 19
+keyword - giá xăng: 13
+keyword - lịch thi đấu bóng đá: 17
+keyword - lịch học: 21
+keyword_timeAt - hôm qua: 18
+keyword_timeAt - ngay bây giờ: 28
+keyword_timeAt - ngày kia: 16
+keyword_timeAt - ngày mai: 25
+keyword_timeAt - tháng trước: 25
+keyword_timeAt - <timeAt>: 22
+keyword_timeAt - tháng sau: 22
+Tra cứu thời tiết:
+timeAt - lát nữa: 43
+timeAt - bây giờ: 43
+timeAt - <timeAt>: 42
+delay_duration - <duration>: 127
+weather_descriptor - oi: 16
+weather_descriptor - nhiều mây: 13
+weather_descriptor - bão: 17
+weather_descriptor - đẹp: 22
+weather_descriptor - sương mù: 19
+weather_descriptor - nắng: 17
+weather_descriptor - lạnh: 11
+weather_descriptor - giông: 15
+weather_descriptor - nồm: 17
+weather_descriptor - mưa: 17
+location - <country>: 31
+location - <province>: 37
+location - <place>: 30
+location - <district>: 29
+weather_timeAt - cuối <day_timeAt>: 27
+weather_timeAt - cuối tháng: 19
+weather_timeAt - cuối tuần: 18
+weather_timeAt - <timeAt>: 22
+weather_timeAt - <buổi> <day_timeAt>: 19
+weather_timeAt - nửa đêm: 18
+weather_duration - <duration>: 129
+Tra cứu lịch:
+timeAt - <timeAt>: 133
+delay_duration - <duration>: 131
+event_timeAt - <timeAt>: 124
+event - đi làm: 12
+event - ngủ dậy: 13
+event - xem phim: 19
+event - tưới cây: 15
+event - đi chơi: 19
+event - gửi mail: 25
+event - đi họp: 23
+event - đi ngủ: 29
+event - đi đá bóng: 12
+event - cắt tóc: 23
+event - đi học: 18
+event - nấu ăn: 19
+event - rửa bát: 10
+event - khách tới nhà: 14
+event - lau nhà: 9
+event - giặt quần áo: 9
+event - đi ăn: 8
+event - bật phim: 10
+location - <place>: 114
+participants - gia đình: 16
+participants - <human_name>: 22
+participants - bạn bè: 19
+participants - lớp: 26
+participants - công ty: 28
+participants - đội bóng: 15
+participants - <human_name> và <human_name>: 13
+Bật nhạc:
+timeAt - <hour_timeAt>: 136
+delay_duration - <hour_duration>: 129
+continuous_duration - <hour_duration>: 141
+song - <song_name>: 31
+song - <trending>: 40
+song - <song_gerne>: 30
+song - <century_int> s: 33
+singer - <singer_name>: 135
+Tra công thức nấu ăn:
+timeAt - <timeAt>: 112
+delay_duration - <hour_duration>: 118
+meal - bữa sáng: 23
+meal - ăn khuya: 19
+meal - bữa lỡ: 22
+meal - điểm tâm: 25
+meal - bữa tối: 20
+meal - bữa trưa: 23
+ingredient - hành lá: 17
+ingredient - mật ong: 10
+ingredient - salad: 11
+ingredient - trứng cá tầm: 12
+ingredient - gà đồi: 11
+ingredient - cua hoàng đế: 15
+ingredient - sò điệp: 5
+ingredient - thịt lợn: 6
+ingredient - hàu: 13
+ingredient - cá hồi: 13
+ingredient - tôm hùm: 10
+ingredient - cá ngừ: 16
+ingredient - thịt bò: 3
+ingredient - hành tây: 23
+dish_name - cuốn: 17
+dish_name - lasagna: 12
+dish_name - mì ý: 16
+dish_name - gỏi: 13
+dish_name - bánh: 8
+dish_name - súp: 11
+dish_name - kho quẹt: 12
+dish_name - bún: 10
+dish_name - salad: 12
+dish_name - cơm: 10
+dish_name - bít tết: 8
+cooking_time - <hour_duration>: 125
+method - xào: 18
+method - luộc: 8
+method - sốt: 18
+method - chiên : 15
+method - hầm: 8
+method - nướng: 9
+method - rán: 13
+method - hấp: 5
+method - trộn: 21
+method - quay: 16
+condition - mặn: 23
+condition - chay: 27
+condition - thơm: 9
+condition - cay: 27
+condition - chua ngọt: 11
+condition - ngọt: 18
+occasion - tân gia: 12
+occasion - thành lập công ty: 8
+occasion - lễ mừng thọ: 14
+occasion - lễ tốt nghiệp: 10
+occasion - <human_name> tới nhà: 18
+occasion - cầu hôn: 9
+occasion - tỏ tình: 10
+occasion - sinh nhật của <human_name>: 6
+occasion - kỉ niệm ngày cưới: 11
+occasion - sinh nhật: 15
+occasion - buổi hẹn đầu tiên: 11
+number_of_servings - <int>: 125
+Đặt lịch:
+timeAt - <timeAt>: 138
+delay_duration - <duration>: 118
+continuous_duration - <duration>: 111
+event - tưới cây: 11
+event - nấu ăn: 12
+event - đi ăn: 10
+event - khách tới nhà: 6
+event - lau nhà: 10
+event - xem phim: 12
+event - gửi mail: 13
+event - dậy: 12
+event - đi làm: 5
+event - bật phim: 19
+event - đi chơi: 10
+event - cắt tóc: 9
+event - giặt quần áo: 4
+event - rửa bát: 7
+event - đi họp: 12
+event - đi đá bóng: 7
+event - đi ngủ: 5
+event - đi học: 7
+repeat - <hour_duration>: 116
+participants - <human_name>: 15
+participants - công ty: 19
+participants - đội bóng: 21
+participants - gia đình: 15
+participants - lớp: 22
+participants - bạn bè: 22
+participants - <human_name> và <human_name>: 14
+remind_duration - <hour_duration>: 100
+location - <place>: 131
+event_timeAt - <timeAt>: 119
+Gọi taxi:
+timeAt - <hour_timeAt>: 121
+delay_duration - <hour_duration>: 120
+brand - Hoàng Hợp: 19
+brand - Long Biên: 9
+brand - Thăng Long: 11
+brand - Hà Nội Tourist: 20
+brand - Mai Linh: 8
+brand - Thủ Đô: 11
+brand - Thanh Nga: 8
+brand - G7: 9
+brand - Vic: 7
+brand - Vinasun: 13
+brand - Xanh SM: 8
+brand - Airport Hà Nội: 13
+brand - Group: 12
+brand - ABC: 7
+pickup_location - <place>, <address>: 44
+pickup_location - <address>: 40
+pickup_location - <place>: 37
+dropoff_location - <place>: 50
+dropoff_location - <address>: 30
+dropoff_location - <place>, <address>: 38
+number_of_passengers - 6.0: 23
+number_of_passengers - 8.0: 20
+number_of_passengers - 7.0: 19
+number_of_passengers - 1.0: 18
+number_of_passengers - 5.0: 22
+number_of_passengers - 3.0: 21
+number_of_passengers - 2.0: 19
+number_of_passengers - 4.0: 18
+type (premium, …) - tiêu chuẩn: 76
+type (premium, …) - hạng sang: 54
+tra cứu đường đi:
+timeAt - <hour_timeAt>: 126
+delay_duration - <hour_duration>: 116
+destination - <address>: 61
+destination - <place>: 64
+distance - <int>km: 121
+travel_duration - <duration>: 135
+transport_type - đi bộ: 24
+transport_type - taxi: 13
+transport_type - ô tô: 15
+transport_type - tàu điện: 19
+transport_type - xe lăn: 13
+transport_type - xe máy: 23
+transport_type - xe buýt: 15
+transport_type - xe đạp: 11
+Đặt vé:
+timeAt - <timeAt>: 129
+delay_duration - <duration>: 126
+departure_location - <province>: 123
+arrival_location - <airport>: 54
+arrival_location - <province>: 62
+number_of_passengers - 7: 12
+number_of_passengers - 8: 19
+number_of_passengers - 11: 13
+number_of_passengers - 12: 10
+number_of_passengers - 4: 15
+number_of_passengers - 9: 11
+number_of_passengers - 3: 8
+number_of_passengers - 1: 9
+number_of_passengers - 5: 22
+number_of_passengers - 13: 25
+number_of_passengers - 10: 19
+number_of_passengers - 14: 18
+number_of_passengers - 2: 9
+number_of_passengers - 6: 13
+number_of_passengers - 16: 9
+number_of_passengers - 15: 6
+payment_method - momo: 14
+payment_method - thẻ ngân hàng: 21
+payment_method - vnpay: 17
+payment_method - thẻ tín dụng: 20
+payment_method - tiền mặt: 25
+payment_method - chuyển khoản ngân hàng: 25
+type - hút thuốc: 22
+type - vip: 23
+type - thường: 20
+type - thương gia: 31
+type - trẻ em: 14
+type - cho phép thú cưng: 14
+transport_type - ca nô: 11
+transport_type - máy bay: 17
+transport_type - tàu điện: 18
+transport_type - xe buýt: 12
+transport_type - ô tô: 15
+transport_type - tàu hỏa: 21
+transport_type - xuồng: 15
+transport_type - tàu thủy: 17
+departure_timeAt - <timeAt>: 116
+Gợi ý phim:
+timeAt - tối ngày <day_int>: 24
+timeAt - trưa ngày <day_int>: 22
+timeAt - sáng ngày <day_int>: 26
+timeAt - <hour_timeAt>: 22
+timeAt - chiều ngày <day_int>: 27
+delay_duration - <duration>: 122
+continuous_duration - <duration>: 128
+actor - <actor>: 110
+genre - tài liệu: 21
+genre - siêu anh hùng: 22
+genre - lịch sử: 7
+genre - hoạt hình: 8
+genre - tình cảm: 13
+genre - ca nhạc: 6
+genre - viễn tưởng: 25
+genre - chiến tranh: 26
+genre - kinh dị: 13
+genre - kịch tính: 17
+genre - hành động: 10
+genre - tội phạm: 21
+genre - hài: 10
+genre - thiếu nhi: 11
+genre - viễn tây: 7
+language - tiếng nhật: 21
+language - tiếng đức: 20
+language - tiếng trung: 26
+language - tiếng anh: 16
+language - tiếng việt: 13
+language - tiếng tây ban nha: 18
+language - tiếng hàn: 16
+rating - <rating_int>: 107
+movie_duration - <hour_duration>: 121
+gợi ý địa điểm:
+timeAt - <timeAt>: 139
+delay_duration - <hour_duration>: 133
+activity - ăn cơm: 14
+activity - tự học: 14
+activity - họp nhóm: 8
+activity - uống cafe: 19
+activity - giải trí: 25
+activity - xem phim: 9
+activity - thể thao: 12
+activity - tập gym: 11
+activity - học tập: 8
+activity - đi chợ: 11
+activity - ăn uống: 15
+activity - dã ngoại: 7
+activity - hẹn hò: 10
+activity - làm việc: 10
+activity - đọc sách: 13
+activity - vui chơi: 24
+activity - bơi lội: 8
+activity - mua sắm: 9
+ocassion - sinh nhật: 49
+ocassion - gặp mặt: 40
+ocassion - kỉ niệm: 42
+area - Times City: 22
+area - gần <place>: 16
+area - <district>: 13
+area - khu <university>: 12
+area - đoạn <street>: 17
+area - <province>: 12
+area - gần nhà: 23
+area - gần phố <street>: 19
+area - phố <street>: 12
+distance - <int> km: 133
+Xóa lịch:
+timeAt - <timeAt>: 148
+delay_duration - <hour_int> tiếng <min_int> phút: 73
+delay_duration - <min_int> phút: 74
+event - làm việc: 16
+event - đi chơi: 20
+event - học tập: 12
+event - xem phim: 20
+event - gặp đối tác: 20
+event - gặp bạn bè: 21
+event - họp: 24
+event - đi cafe: 11
+event - đi dã ngoại: 9
+event - ăn uống: 15
+event - đi leo núi: 12
+event_timeAt - tháng trước: 42
+event_timeAt - <month_timeAt>: 34
+event_timeAt - tháng tới: 42
+event_timeAt - <timeAt>: 30
+Liên hệ:
+timeAt - ngày mai: 45
+timeAt - ngay bây giờ: 25
+timeAt - <timeAt>: 31
+timeAt - ngày kia: 28
+delay_duration - <duration>: 124
+continuous_duration - <duration>: 129
+phone_number - <phone_number>: 129
+email - minh@yahoo.com: 35
+email - khanhlt@gmail.com: 26
+email - vuducminh@gmail.com: 34
+email - minh.vd@sis.hust.edu.vn: 35
+person - mẹ tôi: 24
+person - <human_name>: 23
+person - bạn <human_name>: 25
+person - bố tôi: 34
+person - sếp <human_name>: 27
+đặt đồ ăn:
+timeAt - ngày mai: 39
+timeAt - ngay bây giờ: 43
+timeAt - <timeAt>: 39
+delay_duration - <duration>: 130
+dish_name - <desert>: 64
+dish_name - <dish_name>: 57
+meal - bữa tối: 31
+meal - điểm tâm: 18
+meal - bữa trưa: 23
+meal - bữa lỡ: 19
+meal - bữa sáng: 18
+meal - ăn khuya: 22
+number_of_serving - <int>: 108
+condition - nguội: 43
+condition - nóng: 44
+condition - lạnh: 36
+occasion - ăn tiệc: 38
+occasion - liên hoan: 41
+occasion - sinh nhật: 44
+location - <address>: 123
+Hỏi thông tin:
+timeAt - ngày mai: 48
+timeAt - <timeAt>: 23
+timeAt - ngay bây giờ: 32
+timeAt - ngày kia: 38
+delay_duration - <duration>: 140
+keyword - lịch thi đấu bóng đá: 26
+keyword - lịch học: 20
+keyword - giá vàng: 12
+keyword - cổ phiếu: 18
+keyword - lịch phát sóng: 22
+keyword - giá xăng: 13
+keyword - thời tiết: 19
+keyword - thời sự: 16
+keyword - lịch chiếu phim: 14
+keyword_timeAt - ngay bây giờ: 16
+keyword_timeAt - ngày mai: 31
+keyword_timeAt - ngày kia: 24
+keyword_timeAt - <timeAt>: 23
+keyword_timeAt - hôm qua: 15
+keyword_timeAt - tháng sau: 24
+keyword_timeAt - tháng trước: 16
+Tra cứu thời tiết:
+timeAt - <timeAt>: 47
+timeAt - lát nữa: 53
+timeAt - bây giờ: 29
+delay_duration - <duration>: 121
+weather_descriptor - mưa: 11
+weather_descriptor - sương mù: 21
+weather_descriptor - nắng: 18
+weather_descriptor - giông: 15
+weather_descriptor - nhiều mây: 22
+weather_descriptor - bão: 15
+weather_descriptor - nồm: 24
+weather_descriptor - đẹp: 8
+weather_descriptor - oi: 12
+weather_descriptor - lạnh: 16
+location - <place>: 25
+location - <province>: 31
+location - <country>: 39
+location - <district>: 38
+weather_timeAt - cuối tháng: 24
+weather_timeAt - cuối tuần: 20
+weather_timeAt - <timeAt>: 36
+weather_timeAt - <buổi> <day_timeAt>: 16
+weather_timeAt - cuối <day_timeAt>: 14
+weather_timeAt - nửa đêm: 19
+weather_duration - <duration>: 123
+Tra cứu lịch:
+timeAt - <timeAt>: 129
+delay_duration - <duration>: 142
+event_timeAt - <timeAt>: 134
+event - gửi mail: 27
+event - cắt tóc: 13
+event - lau nhà: 11
+event - đi ăn: 13
+event - đi họp: 9
+event - nấu ăn: 13
+event - ngủ dậy: 12
+event - bật phim: 7
+event - đi đá bóng: 28
+event - giặt quần áo: 18
+event - xem phim: 11
+event - tưới cây: 19
+event - đi chơi: 17
+event - rửa bát: 11
+event - đi làm: 8
+event - đi học: 8
+event - đi ngủ: 7
+event - khách tới nhà: 8
+location - <place>: 135
+participants - đội bóng: 16
+participants - bạn bè: 18
+participants - công ty: 19
+participants - gia đình: 23
+participants - <human_name> và <human_name>: 22
+participants - <human_name>: 23
+participants - lớp: 18
+Bật nhạc:
+timeAt - <hour_timeAt>: 138
+delay_duration - <hour_duration>: 134
+continuous_duration - <hour_duration>: 135
+song - <song_gerne>: 38
+song - <century_int> s: 36
+song - <song_name>: 23
+song - <trending>: 25
+singer - <singer_name>: 143
+Tra công thức nấu ăn:
+timeAt - <timeAt>: 120
+delay_duration - <hour_duration>: 107
+meal - bữa trưa: 18
+meal - bữa lỡ: 22
+meal - điểm tâm: 19
+meal - bữa sáng: 16
+meal - ăn khuya: 15
+meal - bữa tối: 21
+ingredient - mật ong: 12
+ingredient - salad: 13
+ingredient - trứng cá tầm: 9
+ingredient - hành lá: 7
+ingredient - cua hoàng đế: 10
+ingredient - gà đồi: 9
+ingredient - hành tây: 5
+ingredient - cá ngừ: 23
+ingredient - hàu: 8
+ingredient - tôm hùm: 5
+ingredient - thịt lợn: 11
+ingredient - sò điệp: 19
+ingredient - thịt bò: 5
+ingredient - cá hồi: 12
+dish_name - bún: 14
+dish_name - bánh: 24
+dish_name - mì ý: 8
+dish_name - salad: 22
+dish_name - cơm: 11
+dish_name - bít tết: 16
+dish_name - lasagna: 13
+dish_name - gỏi: 8
+dish_name - cuốn: 12
+dish_name - súp: 3
+dish_name - kho quẹt: 9
+cooking_time - <hour_duration>: 106
+method - trộn: 19
+method - rán: 12
+method - hấp: 9
+method - quay: 12
+method - chiên : 12
+method - nướng: 12
+method - xào: 9
+method - hầm: 11
+method - luộc: 10
+method - sốt: 14
+condition - cay: 19
+condition - ngọt: 25
+condition - thơm: 21
+condition - chua ngọt: 21
+condition - chay: 17
+condition - mặn: 23
+occasion - kỉ niệm ngày cưới: 10
+occasion - tỏ tình: 10
+occasion - buổi hẹn đầu tiên: 20
+occasion - lễ mừng thọ: 10
+occasion - <human_name> tới nhà: 13
+occasion - sinh nhật của <human_name>: 9
+occasion - cầu hôn: 10
+occasion - thành lập công ty: 9
+occasion - lễ tốt nghiệp: 13
+occasion - tân gia: 11
+occasion - sinh nhật: 13
+number_of_servings - <int>: 125
+Đặt lịch:
+timeAt - <timeAt>: 113
+delay_duration - <duration>: 121
+continuous_duration - <duration>: 119
+event - xem phim: 4
+event - rửa bát: 8
+event - lau nhà: 14
+event - đi học: 9
+event - khách tới nhà: 14
+event - đi ngủ: 23
+event - đi chơi: 28
+event - bật phim: 13
+event - đi ăn: 25
+event - gửi mail: 7
+event - cắt tóc: 8
+event - tưới cây: 11
+event - đi làm: 8
+event - giặt quần áo: 24
+event - dậy: 10
+event - nấu ăn: 7
+event - đi đá bóng: 5
+event - đi họp: 6
+repeat - <hour_duration>: 115
+participants - công ty: 14
+participants - gia đình: 19
+participants - lớp: 16
+participants - <human_name>: 19
+participants - <human_name> và <human_name>: 18
+participants - bạn bè: 16
+participants - đội bóng: 7
+remind_duration - <hour_duration>: 118
+location - <place>: 128
+event_timeAt - <timeAt>: 125
+Gọi taxi:
+timeAt - <hour_timeAt>: 135
+delay_duration - <hour_duration>: 121
+brand - Xanh SM: 10
+brand - Thủ Đô: 12
+brand - Group: 8
+brand - G7: 23
+brand - Vic: 18
+brand - Vinasun: 19
+brand - Airport Hà Nội: 7
+brand - Thanh Nga: 24
+brand - Long Biên: 13
+brand - Hoàng Hợp: 15
+brand - ABC: 6
+brand - Thăng Long: 8
+brand - Hà Nội Tourist: 10
+brand - Mai Linh: 7
+pickup_location - <place>, <address>: 41
+pickup_location - <address>: 40
+pickup_location - <place>: 45
+dropoff_location - <place>: 39
+dropoff_location - <place>, <address>: 44
+dropoff_location - <address>: 45
+number_of_passengers - 6.0: 17
+number_of_passengers - 2.0: 20
+number_of_passengers - 7.0: 18
+number_of_passengers - 5.0: 22
+number_of_passengers - 3.0: 8
+number_of_passengers - 4.0: 20
+number_of_passengers - 8.0: 14
+number_of_passengers - 1.0: 16
+type (premium, …) - hạng sang: 77
+type (premium, …) - tiêu chuẩn: 58
+tra cứu đường đi:
+timeAt - <hour_timeAt>: 126
+delay_duration - <hour_duration>: 113
+destination - <address>: 66
+destination - <place>: 56
+distance - <int>km: 127
+travel_duration - <duration>: 134
+transport_type - đi bộ: 17
+transport_type - xe máy: 26
+transport_type - xe đạp: 12
+transport_type - xe lăn: 17
+transport_type - tàu điện: 18
+transport_type - taxi: 19
+transport_type - xe buýt: 16
+transport_type - ô tô: 24
+Đặt vé:
+timeAt - <timeAt>: 111
+delay_duration - <duration>: 111
+departure_location - <province>: 123
+arrival_location - <airport>: 58
+arrival_location - <province>: 58
+number_of_passengers - 6: 13
+number_of_passengers - 9: 10
+number_of_passengers - 1: 6
+number_of_passengers - 15: 13
+number_of_passengers - 14: 9
+number_of_passengers - 16: 27
+number_of_passengers - 13: 11
+number_of_passengers - 10: 13
+number_of_passengers - 12: 5
+number_of_passengers - 3: 8
+number_of_passengers - 5: 9
+number_of_passengers - 7: 21
+number_of_passengers - 8: 8
+number_of_passengers - 4: 15
+number_of_passengers - 2: 7
+number_of_passengers - 11: 9
+payment_method - thẻ tín dụng: 22
+payment_method - chuyển khoản ngân hàng: 27
+payment_method - vnpay: 19
+payment_method - thẻ ngân hàng: 20
+payment_method - momo: 16
+payment_method - tiền mặt: 13
+type - hút thuốc: 25
+type - thương gia: 15
+type - vip: 14
+type - cho phép thú cưng: 19
+type - trẻ em: 25
+type - thường: 27
+transport_type - xuồng: 17
+transport_type - ca nô: 18
+transport_type - tàu hỏa: 17
+transport_type - máy bay: 20
+transport_type - tàu thủy: 16
+transport_type - ô tô: 16
+transport_type - tàu điện: 13
+transport_type - xe buýt: 12
+departure_timeAt - <timeAt>: 121
+Gợi ý phim:
+timeAt - chiều ngày <day_int>: 35
+timeAt - tối ngày <day_int>: 24
+timeAt - sáng ngày <day_int>: 28
+timeAt - <hour_timeAt>: 26
+timeAt - trưa ngày <day_int>: 21
+delay_duration - <duration>: 124
+continuous_duration - <duration>: 119
+actor - <actor>: 124
+genre - kịch tính: 21
+genre - hành động: 21
+genre - chiến tranh: 10
+genre - viễn tây: 26
+genre - viễn tưởng: 14
+genre - tội phạm: 7
+genre - thiếu nhi: 8
+genre - lịch sử: 10
+genre - kinh dị: 13
+genre - tình cảm: 16
+genre - hài: 7
+genre - tài liệu: 17
+genre - ca nhạc: 11
+genre - hoạt hình: 13
+genre - siêu anh hùng: 15
+language - tiếng tây ban nha: 19
+language - tiếng anh: 16
+language - tiếng đức: 22
+language - tiếng hàn: 17
+language - tiếng nhật: 23
+language - tiếng trung: 11
+language - tiếng việt: 20
+rating - <rating_int>: 123
+movie_duration - <hour_duration>: 120
+gợi ý địa điểm:
+timeAt - <timeAt>: 102
+delay_duration - <hour_duration>: 118
+activity - mua sắm: 23
+activity - ăn cơm: 25
+activity - đi chợ: 10
+activity - vui chơi: 14
+activity - hẹn hò: 14
+activity - uống cafe: 17
+activity - thể thao: 23
+activity - ăn uống: 6
+activity - bơi lội: 19
+activity - dã ngoại: 12
+activity - đọc sách: 18
+activity - học tập: 22
+activity - họp nhóm: 13
+activity - làm việc: 6
+activity - giải trí: 5
+activity - tập gym: 10
+activity - tự học: 9
+activity - xem phim: 23
+ocassion - sinh nhật: 42
+ocassion - kỉ niệm: 43
+ocassion - gặp mặt: 42
+area - <province>: 23
+area - gần phố <street>: 28
+area - gần <place>: 20
+area - khu <university>: 16
+area - <district>: 17
+area - gần nhà: 7
+area - Times City: 17
+area - phố <street>: 7
+area - đoạn <street>: 17
+distance - <int> km: 126
+Xóa lịch:
+timeAt - <timeAt>: 137
+delay_duration - <hour_int> tiếng <min_int> phút: 65
+delay_duration - <min_int> phút: 67
+event - xem phim: 20
+event - đi cafe: 21
+event - gặp đối tác: 18
+event - họp: 22
+event - đi leo núi: 12
+event - ăn uống: 14
+event - làm việc: 20
+event - học tập: 13
+event - đi dã ngoại: 13
+event - đi chơi: 17
+event - gặp bạn bè: 16
+event_timeAt - tháng tới: 33
+event_timeAt - <timeAt>: 28
+event_timeAt - tháng trước: 36
+event_timeAt - <month_timeAt>: 33
+Liên hệ:
+timeAt - <timeAt>: 19
+timeAt - ngày mai: 18
+timeAt - ngày kia: 37
+timeAt - ngay bây giờ: 31
+delay_duration - <duration>: 113
+continuous_duration - <duration>: 116
+phone_number - <phone_number>: 110
+email - khanhlt@gmail.com: 33
+email - minh@yahoo.com: 29
+email - vuducminh@gmail.com: 34
+email - minh.vd@sis.hust.edu.vn: 25
+person - sếp <human_name>: 20
+person - mẹ tôi: 36
+person - bạn <human_name>: 34
+person - bố tôi: 24
+person - <human_name>: 25
+đặt đồ ăn:
+timeAt - ngày mai: 39
+timeAt - <timeAt>: 40
+timeAt - ngay bây giờ: 41
+delay_duration - <duration>: 128
+dish_name - <desert>: 54
+dish_name - <dish_name>: 67
+meal - bữa lỡ: 21
+meal - ăn khuya: 21
+meal - bữa trưa: 23
+meal - bữa sáng: 20
+meal - bữa tối: 17
+meal - điểm tâm: 12
+number_of_serving - <int>: 124
+condition - nóng: 47
+condition - nguội: 49
+condition - lạnh: 36
+occasion - ăn tiệc: 45
+occasion - sinh nhật: 43
+occasion - liên hoan: 39
+location - <address>: 125
+Hỏi thông tin:
+timeAt - ngày kia: 35
+timeAt - ngay bây giờ: 36
+timeAt - <timeAt>: 33
+timeAt - ngày mai: 29
+delay_duration - <duration>: 136
+keyword - lịch thi đấu bóng đá: 27
+keyword - cổ phiếu: 11
+keyword - lịch học: 12
+keyword - lịch phát sóng: 17
+keyword - giá xăng: 17
+keyword - thời tiết: 23
+keyword - thời sự: 19
+keyword - lịch chiếu phim: 16
+keyword - giá vàng: 15
+keyword_timeAt - tháng sau: 26
+keyword_timeAt - ngày kia: 27
+keyword_timeAt - <timeAt>: 25
+keyword_timeAt - tháng trước: 23
+keyword_timeAt - ngay bây giờ: 29
+keyword_timeAt - ngày mai: 22
+keyword_timeAt - hôm qua: 16
+Tra cứu thời tiết:
+timeAt - bây giờ: 40
+timeAt - lát nữa: 39
+timeAt - <timeAt>: 42
+delay_duration - <duration>: 132
+weather_descriptor - nắng: 10
+weather_descriptor - lạnh: 16
+weather_descriptor - oi: 21
+weather_descriptor - sương mù: 16
+weather_descriptor - bão: 20
+weather_descriptor - nồm: 9
+weather_descriptor - mưa: 20
+weather_descriptor - nhiều mây: 15
+weather_descriptor - đẹp: 13
+weather_descriptor - giông: 14
+location - <district>: 33
+location - <province>: 39
+location - <place>: 28
+location - <country>: 29
+weather_timeAt - <timeAt>: 25
+weather_timeAt - <buổi> <day_timeAt>: 28
+weather_timeAt - cuối tuần: 24
+weather_timeAt - cuối <day_timeAt>: 21
+weather_timeAt - nửa đêm: 20
+weather_timeAt - cuối tháng: 21
+weather_duration - <duration>: 126
+Tra cứu lịch:
+timeAt - <timeAt>: 121
+delay_duration - <duration>: 117
+event_timeAt - <timeAt>: 120
+event - khách tới nhà: 20
+event - tưới cây: 21
+event - nấu ăn: 19
+event - đi đá bóng: 22
+event - giặt quần áo: 21
+event - đi học: 17
+event - rửa bát: 12
+event - bật phim: 21
+event - gửi mail: 21
+event - đi họp: 16
+event - đi ăn: 15
+event - đi làm: 22
+event - cắt tóc: 11
+event - xem phim: 8
+event - ngủ dậy: 18
+event - lau nhà: 16
+event - đi ngủ: 10
+event - đi chơi: 7
+location - <place>: 130
+participants - công ty: 19
+participants - <human_name> và <human_name>: 17
+participants - bạn bè: 14
+participants - <human_name>: 22
+participants - đội bóng: 13
+participants - lớp: 19
+participants - gia đình: 26
+Bật nhạc:
+timeAt - <hour_timeAt>: 126
+delay_duration - <hour_duration>: 129
+continuous_duration - <hour_duration>: 117
+song - <century_int> s: 28
+song - <trending>: 33
+song - <song_gerne>: 36
+song - <song_name>: 34
+singer - <singer_name>: 131
+Tra công thức nấu ăn:
+timeAt - <timeAt>: 120
+delay_duration - <hour_duration>: 127
+meal - bữa trưa: 27
+meal - bữa sáng: 17
+meal - điểm tâm: 16
+meal - bữa lỡ: 24
+meal - ăn khuya: 16
+meal - bữa tối: 18
+ingredient - cua hoàng đế: 16
+ingredient - cá hồi: 15
+ingredient - mật ong: 22
+ingredient - hàu: 9
+ingredient - cá ngừ: 16
+ingredient - thịt lợn: 16
+ingredient - thịt bò: 14
+ingredient - tôm hùm: 6
+ingredient - trứng cá tầm: 14
+ingredient - hành tây: 5
+ingredient - gà đồi: 7
+ingredient - sò điệp: 3
+ingredient - salad: 21
+ingredient - hành lá: 6
+dish_name - cuốn: 9
+dish_name - súp: 11
+dish_name - gỏi: 13
+dish_name - bún: 11
+dish_name - lasagna: 13
+dish_name - bít tết: 13
+dish_name - cơm: 13
+dish_name - salad: 20
+dish_name - bánh: 18
+dish_name - mì ý: 7
+dish_name - kho quẹt: 10
+cooking_time - <hour_duration>: 119
+method - luộc: 11
+method - hấp: 14
+method - chiên : 14
+method - rán: 10
+method - trộn: 25
+method - nướng: 12
+method - xào: 13
+method - quay: 10
+method - sốt: 8
+method - hầm: 7
+condition - chua ngọt: 26
+condition - thơm: 18
+condition - chay: 14
+condition - cay: 16
+condition - mặn: 22
+condition - ngọt: 22
+occasion - lễ tốt nghiệp: 12
+occasion - tân gia: 8
+occasion - buổi hẹn đầu tiên: 9
+occasion - <human_name> tới nhà: 21
+occasion - thành lập công ty: 20
+occasion - kỉ niệm ngày cưới: 22
+occasion - lễ mừng thọ: 17
+occasion - sinh nhật của <human_name>: 11
+occasion - sinh nhật: 16
+occasion - cầu hôn: 20
+occasion - tỏ tình: 10
+number_of_servings - <int>: 116
+Đặt lịch:
+timeAt - <timeAt>: 115
+delay_duration - <duration>: 129
+continuous_duration - <duration>: 110
+event - cắt tóc: 22
+event - nấu ăn: 13
+event - dậy: 14
+event - tưới cây: 15
+event - đi chơi: 15
+event - xem phim: 6
+event - rửa bát: 14
+event - đi đá bóng: 25
+event - đi làm: 11
+event - lau nhà: 9
+event - đi học: 10
+event - gửi mail: 11
+event - giặt quần áo: 5
+event - khách tới nhà: 4
+event - đi họp: 5
+event - đi ngủ: 14
+event - bật phim: 5
+event - đi ăn: 4
+repeat - <hour_duration>: 120
+participants - đội bóng: 16
+participants - gia đình: 20
+participants - <human_name> và <human_name>: 19
+participants - lớp: 16
+participants - bạn bè: 12
+participants - <human_name>: 17
+participants - công ty: 13
+remind_duration - <hour_duration>: 134
+location - <place>: 117
+event_timeAt - <timeAt>: 125
+Gọi taxi:
+timeAt - <hour_timeAt>: 111
+delay_duration - <hour_duration>: 124
+brand - Vic: 16
+brand - Group: 17
+brand - Thăng Long: 14
+brand - Airport Hà Nội: 16
+brand - Thủ Đô: 18
+brand - Hà Nội Tourist: 12
+brand - Mai Linh: 24
+brand - Xanh SM: 10
+brand - ABC: 12
+brand - Thanh Nga: 10
+brand - Long Biên: 13
+brand - G7: 17
+brand - Hoàng Hợp: 5
+brand - Vinasun: 3
+pickup_location - <place>, <address>: 51
+pickup_location - <address>: 32
+pickup_location - <place>: 36
+dropoff_location - <address>: 35
+dropoff_location - <place>: 52
+dropoff_location - <place>, <address>: 32
+number_of_passengers - 2.0: 13
+number_of_passengers - 5.0: 13
+number_of_passengers - 7.0: 14
+number_of_passengers - 8.0: 15
+number_of_passengers - 6.0: 10
+number_of_passengers - 1.0: 21
+number_of_passengers - 3.0: 8
+number_of_passengers - 4.0: 8
+type (premium, …) - tiêu chuẩn: 56
+type (premium, …) - hạng sang: 49
+tra cứu đường đi:
+timeAt - <hour_timeAt>: 116
+delay_duration - <hour_duration>: 134
+destination - <place>: 73
+destination - <address>: 59
+distance - <int>km: 128
+travel_duration - <duration>: 124
+transport_type - xe máy: 19
+transport_type - tàu điện: 19
+transport_type - xe lăn: 14
+transport_type - ô tô: 20
+transport_type - đi bộ: 25
+transport_type - xe đạp: 21
+transport_type - xe buýt: 13
+transport_type - taxi: 18
+Đặt vé:
+timeAt - <timeAt>: 133
+delay_duration - <duration>: 123
+departure_location - <province>: 124
+arrival_location - <province>: 64
+arrival_location - <airport>: 63
+number_of_passengers - 10: 7
+number_of_passengers - 11: 12
+number_of_passengers - 16: 7
+number_of_passengers - 13: 10
+number_of_passengers - 9: 25
+number_of_passengers - 12: 13
+number_of_passengers - 14: 12
+number_of_passengers - 5: 5
+number_of_passengers - 2: 8
+number_of_passengers - 7: 22
+number_of_passengers - 8: 11
+number_of_passengers - 15: 11
+number_of_passengers - 4: 6
+number_of_passengers - 3: 18
+number_of_passengers - 1: 5
+number_of_passengers - 6: 5
+payment_method - tiền mặt: 20
+payment_method - chuyển khoản ngân hàng: 22
+payment_method - momo: 12
+payment_method - thẻ tín dụng: 20
+payment_method - vnpay: 23
+payment_method - thẻ ngân hàng: 17
+type - cho phép thú cưng: 21
+type - vip: 24
+type - hút thuốc: 20
+type - trẻ em: 23
+type - thương gia: 23
+type - thường: 26
+transport_type - xuồng: 18
+transport_type - tàu điện: 15
+transport_type - xe buýt: 17
+transport_type - máy bay: 8
+transport_type - ca nô: 19
+transport_type - tàu thủy: 19
+transport_type - tàu hỏa: 15
+transport_type - ô tô: 8
+departure_timeAt - <timeAt>: 121
+Gợi ý phim:
+timeAt - chiều ngày <day_int>: 20
+timeAt - sáng ngày <day_int>: 22
+timeAt - trưa ngày <day_int>: 27
+timeAt - tối ngày <day_int>: 25
+timeAt - <hour_timeAt>: 31
+delay_duration - <duration>: 125
+continuous_duration - <duration>: 114
+actor - <actor>: 123
+genre - hoạt hình: 9
+genre - hành động: 24
+genre - thiếu nhi: 12
+genre - ca nhạc: 18
+genre - hài: 13
+genre - lịch sử: 8
+genre - kinh dị: 11
+genre - siêu anh hùng: 7
+genre - tình cảm: 9
+genre - tội phạm: 12
+genre - chiến tranh: 18
+genre - viễn tây: 14
+genre - kịch tính: 7
+genre - viễn tưởng: 7
+genre - tài liệu: 3
+language - tiếng trung: 23
+language - tiếng tây ban nha: 24
+language - tiếng nhật: 26
+language - tiếng việt: 16
+language - tiếng đức: 22
+language - tiếng hàn: 12
+language - tiếng anh: 23
+rating - <rating_int>: 118
+movie_duration - <hour_duration>: 128
+gợi ý địa điểm:
+timeAt - <timeAt>: 125
+delay_duration - <hour_duration>: 125
+activity - đọc sách: 12
+activity - hẹn hò: 8
+activity - ăn cơm: 15
+activity - đi chợ: 15
+activity - học tập: 14
+activity - dã ngoại: 14
+activity - vui chơi: 9
+activity - tự học: 10
+activity - mua sắm: 9
+activity - tập gym: 13
+activity - làm việc: 10
+activity - bơi lội: 12
+activity - uống cafe: 12
+activity - ăn uống: 9
+activity - giải trí: 18
+activity - xem phim: 7
+activity - họp nhóm: 7
+activity - thể thao: 4
+ocassion - gặp mặt: 43
+ocassion - sinh nhật: 41
+ocassion - kỉ niệm: 49
+area - phố <street>: 15
+area - gần <place>: 18
+area - <province>: 13
+area - khu <university>: 16
+area - gần nhà: 14
+area - Times City: 6
+area - đoạn <street>: 19
+area - <district>: 14
+area - gần phố <street>: 12
+distance - <int> km: 129
+Xóa lịch:
+timeAt - <timeAt>: 124
+delay_duration - <min_int> phút: 65
+delay_duration - <hour_int> tiếng <min_int> phút: 63
+event - họp: 10
+event - làm việc: 15
+event - đi cafe: 23
+event - gặp đối tác: 14
+event - gặp bạn bè: 15
+event - đi leo núi: 18
+event - đi dã ngoại: 20
+event - xem phim: 13
+event - ăn uống: 17
+event - học tập: 11
+event - đi chơi: 15
+event_timeAt - tháng trước: 40
+event_timeAt - tháng tới: 34
+event_timeAt - <month_timeAt>: 39
+event_timeAt - <timeAt>: 30
+Liên hệ:
+timeAt - <timeAt>: 32
+timeAt - ngày kia: 28
+timeAt - ngay bây giờ: 33
+timeAt - ngày mai: 31
+delay_duration - <duration>: 123
+continuous_duration - <duration>: 121
+phone_number - <phone_number>: 141
+email - khanhlt@gmail.com: 30
+email - vuducminh@gmail.com: 28
+email - minh.vd@sis.hust.edu.vn: 36
+email - minh@yahoo.com: 29
+person - bạn <human_name>: 20
+person - bố tôi: 27
+person - mẹ tôi: 27
+person - <human_name>: 24
+person - sếp <human_name>: 25
+đặt đồ ăn:
+timeAt - ngày mai: 37
+timeAt - <timeAt>: 48
+timeAt - ngay bây giờ: 44
+delay_duration - <duration>: 117
+dish_name - <desert>: 57
+dish_name - <dish_name>: 73
+meal - điểm tâm: 15
+meal - bữa sáng: 30
+meal - bữa trưa: 19
+meal - bữa tối: 26
+meal - ăn khuya: 21
+meal - bữa lỡ: 17
+number_of_serving - <int>: 128
+condition - lạnh: 46
+condition - nguội: 46
+condition - nóng: 34
+occasion - sinh nhật: 41
+occasion - liên hoan: 39
+occasion - ăn tiệc: 48
+location - <address>: 132
+Hỏi thông tin:
+timeAt - ngày mai: 37
+timeAt - <timeAt>: 34
+timeAt - ngay bây giờ: 44
+timeAt - ngày kia: 28
+delay_duration - <duration>: 138
+keyword - thời tiết: 31
+keyword - giá xăng: 15
+keyword - lịch học: 15
+keyword - lịch chiếu phim: 12
+keyword - lịch thi đấu bóng đá: 20
+keyword - lịch phát sóng: 19
+keyword - cổ phiếu: 11
+keyword - thời sự: 12
+keyword - giá vàng: 20
+keyword_timeAt - tháng trước: 17
+keyword_timeAt - hôm qua: 10
+keyword_timeAt - tháng sau: 20
+keyword_timeAt - ngay bây giờ: 23
+keyword_timeAt - <timeAt>: 17
+keyword_timeAt - ngày kia: 40
+keyword_timeAt - ngày mai: 15
+Tra cứu thời tiết:
+timeAt - <timeAt>: 34
+timeAt - bây giờ: 53
+timeAt - lát nữa: 36
+delay_duration - <duration>: 137
+weather_descriptor - đẹp: 16
+weather_descriptor - nồm: 13
+weather_descriptor - sương mù: 18
+weather_descriptor - nắng: 18
+weather_descriptor - bão: 16
+weather_descriptor - mưa: 10
+weather_descriptor - lạnh: 7
+weather_descriptor - giông: 26
+weather_descriptor - nhiều mây: 14
+weather_descriptor - oi: 7
+location - <province>: 35
+location - <place>: 35
+location - <country>: 29
+location - <district>: 35
+weather_timeAt - nửa đêm: 14
+weather_timeAt - <timeAt>: 30
+weather_timeAt - cuối tháng: 27
+weather_timeAt - <buổi> <day_timeAt>: 24
+weather_timeAt - cuối <day_timeAt>: 19
+weather_timeAt - cuối tuần: 20
+weather_duration - <duration>: 117
+Tra cứu lịch:
+timeAt - <timeAt>: 128
+delay_duration - <duration>: 134
+event_timeAt - <timeAt>: 134
+event - khách tới nhà: 9
+event - đi ngủ: 15
+event - đi đá bóng: 21
+event - nấu ăn: 14
+event - đi ăn: 11
+event - đi làm: 6
+event - bật phim: 16
+event - gửi mail: 22
+event - giặt quần áo: 9
+event - đi chơi: 11
+event - cắt tóc: 26
+event - rửa bát: 8
+event - ngủ dậy: 11
+event - đi học: 6
+event - tưới cây: 7
+event - xem phim: 15
+event - đi họp: 9
+event - lau nhà: 20
+location - <place>: 127
+participants - gia đình: 27
+participants - <human_name> và <human_name>: 20
+participants - bạn bè: 18
+participants - đội bóng: 21
+participants - <human_name>: 16
+participants - công ty: 16
+participants - lớp: 10
+Bật nhạc:
+timeAt - <hour_timeAt>: 131
+delay_duration - <hour_duration>: 137
+continuous_duration - <hour_duration>: 131
+song - <century_int> s: 37
+song - <trending>: 39
+song - <song_gerne>: 36
+song - <song_name>: 28
+singer - <singer_name>: 139
+Tra công thức nấu ăn:
+timeAt - <timeAt>: 113
+delay_duration - <hour_duration>: 126
+meal - bữa trưa: 25
+meal - bữa sáng: 23
+meal - điểm tâm: 16
+meal - ăn khuya: 22
+meal - bữa tối: 20
+meal - bữa lỡ: 16
+ingredient - sò điệp: 13
+ingredient - salad: 23
+ingredient - cua hoàng đế: 8
+ingredient - gà đồi: 14
+ingredient - trứng cá tầm: 5
+ingredient - thịt bò: 20
+ingredient - mật ong: 17
+ingredient - tôm hùm: 7
+ingredient - thịt lợn: 7
+ingredient - cá hồi: 6
+ingredient - hành lá: 6
+ingredient - hàu: 17
+ingredient - hành tây: 7
+ingredient - cá ngừ: 7
+dish_name - bít tết: 15
+dish_name - bún: 13
+dish_name - lasagna: 17
+dish_name - cuốn: 18
+dish_name - bánh: 12
+dish_name - kho quẹt: 7
+dish_name - cơm: 14
+dish_name - mì ý: 8
+dish_name - gỏi: 11
+dish_name - salad: 18
+dish_name - súp: 15
+cooking_time - <hour_duration>: 116
+method - hấp: 16
+method - hầm: 11
+method - rán: 19
+method - chiên : 7
+method - xào: 12
+method - quay: 18
+method - nướng: 28
+method - trộn: 16
+method - sốt: 9
+method - luộc: 7
+condition - thơm: 22
+condition - cay: 23
+condition - mặn: 17
+condition - ngọt: 21
+condition - chua ngọt: 19
+condition - chay: 18
+occasion - lễ tốt nghiệp: 15
+occasion - cầu hôn: 9
+occasion - <human_name> tới nhà: 10
+occasion - kỉ niệm ngày cưới: 10
+occasion - thành lập công ty: 6
+occasion - tỏ tình: 13
+occasion - sinh nhật của <human_name>: 17
+occasion - sinh nhật: 14
+occasion - lễ mừng thọ: 11
+occasion - tân gia: 9
+occasion - buổi hẹn đầu tiên: 13
+number_of_servings - <int>: 131
+Đặt lịch:
+timeAt - <timeAt>: 110
+delay_duration - <duration>: 119
+continuous_duration - <duration>: 119
+event - lau nhà: 10
+event - nấu ăn: 14
+event - đi họp: 22
+event - đi ăn: 13
+event - đi đá bóng: 20
+event - bật phim: 12
+event - rửa bát: 8
+event - cắt tóc: 7
+event - đi chơi: 9
+event - tưới cây: 4
+event - xem phim: 9
+event - khách tới nhà: 6
+event - đi làm: 7
+event - đi ngủ: 6
+event - đi học: 10
+event - gửi mail: 4
+event - dậy: 6
+event - giặt quần áo: 8
+repeat - <hour_duration>: 127
+participants - bạn bè: 14
+participants - gia đình: 15
+participants - lớp: 16
+participants - <human_name> và <human_name>: 19
+participants - <human_name>: 20
+participants - đội bóng: 26
+participants - công ty: 14
+remind_duration - <hour_duration>: 136
+location - <place>: 123
+event_timeAt - <timeAt>: 112
+Gọi taxi:
+timeAt - <hour_timeAt>: 119
+delay_duration - <hour_duration>: 123
+brand - Thủ Đô: 12
+brand - Vic: 12
+brand - Long Biên: 14
+brand - Mai Linh: 9
+brand - G7: 13
+brand - Hoàng Hợp: 9
+brand - ABC: 9
+brand - Group: 8
+brand - Thăng Long: 9
+brand - Thanh Nga: 9
+brand - Vinasun: 18
+brand - Airport Hà Nội: 9
+brand - Xanh SM: 7
+brand - Hà Nội Tourist: 7
+pickup_location - <place>, <address>: 44
+pickup_location - <place>: 47
+pickup_location - <address>: 40
+dropoff_location - <place>, <address>: 40
+dropoff_location - <address>: 41
+dropoff_location - <place>: 44
+number_of_passengers - 8.0: 18
+number_of_passengers - 5.0: 9
+number_of_passengers - 2.0: 12
+number_of_passengers - 1.0: 19
+number_of_passengers - 7.0: 21
+number_of_passengers - 6.0: 12
+number_of_passengers - 3.0: 20
+number_of_passengers - 4.0: 21
+type (premium, …) - hạng sang: 64
+type (premium, …) - tiêu chuẩn: 57
+tra cứu đường đi:
+timeAt - <hour_timeAt>: 121
+delay_duration - <hour_duration>: 124
+destination - <address>: 68
+destination - <place>: 56
+distance - <int>km: 127
+travel_duration - <duration>: 119
+transport_type - đi bộ: 17
+transport_type - ô tô: 18
+transport_type - xe đạp: 21
+transport_type - xe buýt: 20
+transport_type - tàu điện: 11
+transport_type - xe máy: 16
+transport_type - taxi: 19
+transport_type - xe lăn: 17
+Đặt vé:
+timeAt - <timeAt>: 127
+delay_duration - <duration>: 131
+departure_location - <province>: 113
+arrival_location - <province>: 63
+arrival_location - <airport>: 57
+number_of_passengers - 13: 12
+number_of_passengers - 3: 12
+number_of_passengers - 10: 19
+number_of_passengers - 12: 10
+number_of_passengers - 1: 18
+number_of_passengers - 9: 16
+number_of_passengers - 4: 6
+number_of_passengers - 8: 6
+number_of_passengers - 14: 6
+number_of_passengers - 15: 13
+number_of_passengers - 7: 9
+number_of_passengers - 2: 6
+number_of_passengers - 16: 5
+number_of_passengers - 6: 14
+number_of_passengers - 5: 12
+number_of_passengers - 11: 12
+payment_method - vnpay: 12
+payment_method - thẻ tín dụng: 18
+payment_method - chuyển khoản ngân hàng: 23
+payment_method - momo: 22
+payment_method - thẻ ngân hàng: 25
+payment_method - tiền mặt: 19
+type - thường: 13
+type - vip: 22
+type - trẻ em: 19
+type - hút thuốc: 32
+type - cho phép thú cưng: 21
+type - thương gia: 20
+transport_type - xuồng: 26
+transport_type - tàu điện: 19
+transport_type - xe buýt: 13
+transport_type - tàu thủy: 12
+transport_type - máy bay: 18
+transport_type - ô tô: 16
+transport_type - tàu hỏa: 14
+transport_type - ca nô: 5
+departure_timeAt - <timeAt>: 121
+Gợi ý phim:
+timeAt - tối ngày <day_int>: 34
+timeAt - sáng ngày <day_int>: 20
+timeAt - trưa ngày <day_int>: 23
+timeAt - chiều ngày <day_int>: 18
+timeAt - <hour_timeAt>: 22
+delay_duration - <duration>: 115
+continuous_duration - <duration>: 120
+actor - <actor>: 115
+genre - tình cảm: 11
+genre - chiến tranh: 11
+genre - lịch sử: 12
+genre - ca nhạc: 14
+genre - viễn tưởng: 11
+genre - tài liệu: 9
+genre - kịch tính: 25
+genre - hoạt hình: 8
+genre - kinh dị: 7
+genre - hành động: 9
+genre - thiếu nhi: 10
+genre - viễn tây: 3
+genre - siêu anh hùng: 12
+genre - tội phạm: 5
+genre - hài: 9
+language - tiếng anh: 15
+language - tiếng đức: 13
+language - tiếng nhật: 17
+language - tiếng việt: 20
+language - tiếng tây ban nha: 18
+language - tiếng trung: 14
+language - tiếng hàn: 15
+rating - <rating_int>: 114
+movie_duration - <hour_duration>: 116
+gợi ý địa điểm:
+timeAt - <timeAt>: 112
+delay_duration - <hour_duration>: 123
+activity - ăn cơm: 19
+activity - tự học: 6
+activity - học tập: 33
+activity - họp nhóm: 11
+activity - giải trí: 19
+activity - uống cafe: 26
+activity - mua sắm: 31
+activity - xem phim: 8
+activity - tập gym: 14
+activity - vui chơi: 10
+activity - bơi lội: 5
+activity - hẹn hò: 14
+activity - đi chợ: 11
+activity - dã ngoại: 22
+activity - đọc sách: 11
+activity - thể thao: 22
+activity - ăn uống: 12
+activity - làm việc: 22
+ocassion - kỉ niệm: 38
+ocassion - gặp mặt: 37
+ocassion - sinh nhật: 46
+area - phố <street>: 20
+area - Times City: 15
+area - đoạn <street>: 21
+area - khu <university>: 18
+area - gần <place>: 18
+area - gần phố <street>: 20
+area - <district>: 19
+area - gần nhà: 22
+area - <province>: 13
+distance - <int> km: 113
+Xóa lịch:
+timeAt - <timeAt>: 138
+delay_duration - <min_int> phút: 63
+delay_duration - <hour_int> tiếng <min_int> phút: 71
+event - đi cafe: 12
+event - đi leo núi: 23
+event - học tập: 21
+event - gặp đối tác: 14
+event - xem phim: 13
+event - gặp bạn bè: 24
+event - họp: 11
+event - đi chơi: 14
+event - ăn uống: 20
+event - đi dã ngoại: 15
+event - làm việc: 8
+event_timeAt - <month_timeAt>: 37
+event_timeAt - <timeAt>: 35
+event_timeAt - tháng tới: 35
+event_timeAt - tháng trước: 27
+Liên hệ:
+timeAt - ngay bây giờ: 32
+timeAt - ngày mai: 31
+timeAt - ngày kia: 29
+timeAt - <timeAt>: 38
+delay_duration - <duration>: 136
+continuous_duration - <duration>: 138
+phone_number - <phone_number>: 127
+email - minh@yahoo.com: 29
+email - khanhlt@gmail.com: 33
+email - vuducminh@gmail.com: 33
+email - minh.vd@sis.hust.edu.vn: 33
+person - sếp <human_name>: 33
+person - bố tôi: 26
+person - mẹ tôi: 19
+person - <human_name>: 33
+person - bạn <human_name>: 20
+đặt đồ ăn:
+timeAt - <timeAt>: 54
+timeAt - ngay bây giờ: 34
+timeAt - ngày mai: 52
+delay_duration - <duration>: 121
+dish_name - <desert>: 60
+dish_name - <dish_name>: 69
+meal - bữa tối: 21
+meal - bữa trưa: 21
+meal - ăn khuya: 26
+meal - bữa sáng: 21
+meal - điểm tâm: 24
+meal - bữa lỡ: 25
+number_of_serving - <int>: 123
+condition - nóng: 50
+condition - nguội: 45
+condition - lạnh: 38
+occasion - liên hoan: 44
+occasion - ăn tiệc: 44
+occasion - sinh nhật: 46
+location - <address>: 131
+Hỏi thông tin:
+timeAt - ngày mai: 45
+timeAt - ngay bây giờ: 29
+timeAt - ngày kia: 31
+timeAt - <timeAt>: 39
+delay_duration - <duration>: 123
+keyword - thời sự: 21
+keyword - giá vàng: 16
+keyword - cổ phiếu: 14
+keyword - thời tiết: 15
+keyword - lịch chiếu phim: 24
+keyword - lịch học: 21
+keyword - lịch thi đấu bóng đá: 15
+keyword - lịch phát sóng: 15
+keyword - giá xăng: 19
+keyword_timeAt - ngày kia: 26
+keyword_timeAt - tháng sau: 20
+keyword_timeAt - tháng trước: 21
+keyword_timeAt - hôm qua: 23
+keyword_timeAt - <timeAt>: 14
+keyword_timeAt - ngày mai: 25
+keyword_timeAt - ngay bây giờ: 24
+Tra cứu thời tiết:
+timeAt - <timeAt>: 51
+timeAt - lát nữa: 37
+timeAt - bây giờ: 47
+delay_duration - <duration>: 123
+weather_descriptor - lạnh: 11
+weather_descriptor - nồm: 19
+weather_descriptor - mưa: 19
+weather_descriptor - sương mù: 19
+weather_descriptor - đẹp: 17
+weather_descriptor - bão: 22
+weather_descriptor - nắng: 17
+weather_descriptor - giông: 19
+weather_descriptor - oi: 14
+weather_descriptor - nhiều mây: 11
+location - <province>: 34
+location - <country>: 41
+location - <place>: 28
+location - <district>: 28
+weather_timeAt - cuối tuần: 20
+weather_timeAt - cuối tháng: 16
+weather_timeAt - nửa đêm: 23
+weather_timeAt - <timeAt>: 21
+weather_timeAt - cuối <day_timeAt>: 24
+weather_timeAt - <buổi> <day_timeAt>: 15
+weather_duration - <duration>: 122
+Tra cứu lịch:
+timeAt - <timeAt>: 131
+delay_duration - <duration>: 124
+event_timeAt - <timeAt>: 120
+event - đi học: 13
+event - rửa bát: 11
+event - đi ăn: 11
+event - ngủ dậy: 20
+event - đi làm: 13
+event - đi họp: 19
+event - xem phim: 15
+event - tưới cây: 20
+event - giặt quần áo: 13
+event - đi chơi: 19
+event - khách tới nhà: 18
+event - bật phim: 10
+event - gửi mail: 13
+event - nấu ăn: 14
+event - cắt tóc: 7
+event - đi ngủ: 19
+event - lau nhà: 11
+event - đi đá bóng: 12
+location - <place>: 123
+participants - gia đình: 19
+participants - lớp: 15
+participants - công ty: 25
+participants - <human_name>: 26
+participants - bạn bè: 24
+participants - <human_name> và <human_name>: 23
+participants - đội bóng: 16
+Bật nhạc:
+timeAt - <hour_timeAt>: 127
+delay_duration - <hour_duration>: 138
+continuous_duration - <hour_duration>: 130
+song - <song_gerne>: 29
+song - <song_name>: 33
+song - <trending>: 35
+song - <century_int> s: 31
+singer - <singer_name>: 137
+Tra công thức nấu ăn:
+timeAt - <timeAt>: 114
+delay_duration - <hour_duration>: 119
+meal - bữa trưa: 19
+meal - ăn khuya: 34
+meal - bữa lỡ: 17
+meal - bữa sáng: 19
+meal - bữa tối: 15
+meal - điểm tâm: 24
+ingredient - cá hồi: 13
+ingredient - salad: 11
+ingredient - hàu: 12
+ingredient - cá ngừ: 9
+ingredient - trứng cá tầm: 7
+ingredient - mật ong: 11
+ingredient - cua hoàng đế: 14
+ingredient - tôm hùm: 5
+ingredient - thịt bò: 9
+ingredient - hành lá: 6
+ingredient - sò điệp: 8
+ingredient - gà đồi: 5
+ingredient - thịt lợn: 9
+ingredient - hành tây: 5
+dish_name - gỏi: 11
+dish_name - lasagna: 18
+dish_name - salad: 9
+dish_name - súp: 17
+dish_name - cơm: 20
+dish_name - mì ý: 11
+dish_name - bánh: 11
+dish_name - kho quẹt: 11
+dish_name - bít tết: 11
+dish_name - bún: 13
+dish_name - cuốn: 14
+cooking_time - <hour_duration>: 111
+method - chiên : 15
+method - quay: 16
+method - hầm: 9
+method - luộc: 6
+method - sốt: 15
+method - nướng: 11
+method - hấp: 12
+method - rán: 11
+method - trộn: 14
+method - xào: 14
+condition - thơm: 18
+condition - mặn: 18
+condition - cay: 32
+condition - chay: 21
+condition - ngọt: 19
+condition - chua ngọt: 12
+occasion - thành lập công ty: 11
+occasion - tỏ tình: 15
+occasion - sinh nhật của <human_name>: 10
+occasion - tân gia: 14
+occasion - kỉ niệm ngày cưới: 13
+occasion - cầu hôn: 7
+occasion - buổi hẹn đầu tiên: 21
+occasion - sinh nhật: 18
+occasion - lễ mừng thọ: 6
+occasion - <human_name> tới nhà: 14
+occasion - lễ tốt nghiệp: 10
+number_of_servings - <int>: 113
+Đặt lịch:
+timeAt - <timeAt>: 126
+delay_duration - <duration>: 125
+continuous_duration - <duration>: 134
+event - lau nhà: 10
+event - dậy: 9
+event - đi chơi: 13
+event - nấu ăn: 3
+event - đi ngủ: 9
+event - khách tới nhà: 14
+event - đi ăn: 11
+event - cắt tóc: 6
+event - đi học: 23
+event - bật phim: 13
+event - đi đá bóng: 9
+event - tưới cây: 6
+event - rửa bát: 9
+event - giặt quần áo: 8
+event - đi họp: 12
+event - gửi mail: 4
+event - xem phim: 5
+event - đi làm: 5
+repeat - <hour_duration>: 121
+participants - gia đình: 16
+participants - <human_name>: 14
+participants - đội bóng: 15
+participants - <human_name> và <human_name>: 14
+participants - bạn bè: 21
+participants - công ty: 16
+participants - lớp: 15
+remind_duration - <hour_duration>: 113
+location - <place>: 123
+event_timeAt - <timeAt>: 118
+Gọi taxi:
+timeAt - <hour_timeAt>: 124
+delay_duration - <hour_duration>: 126
+brand - Hoàng Hợp: 21
+brand - Long Biên: 14
+brand - Group: 12
+brand - ABC: 9
+brand - Hà Nội Tourist: 14
+brand - Vinasun: 7
+brand - G7: 21
+brand - Thanh Nga: 11
+brand - Mai Linh: 9
+brand - Vic: 6
+brand - Thăng Long: 10
+brand - Xanh SM: 12
+brand - Thủ Đô: 12
+brand - Airport Hà Nội: 6
+pickup_location - <address>: 39
+pickup_location - <place>: 47
+pickup_location - <place>, <address>: 40
+dropoff_location - <place>: 44
+dropoff_location - <place>, <address>: 43
+dropoff_location - <address>: 42
+number_of_passengers - 1.0: 18
+number_of_passengers - 5.0: 17
+number_of_passengers - 8.0: 19
+number_of_passengers - 4.0: 23
+number_of_passengers - 6.0: 19
+number_of_passengers - 3.0: 10
+number_of_passengers - 7.0: 20
+number_of_passengers - 2.0: 14
+type (premium, …) - tiêu chuẩn: 60
+type (premium, …) - hạng sang: 61
+tra cứu đường đi:
+timeAt - <hour_timeAt>: 125
+delay_duration - <hour_duration>: 121
+destination - <address>: 72
+destination - <place>: 55
+distance - <int>km: 114
+travel_duration - <duration>: 121
+transport_type - xe lăn: 19
+transport_type - xe buýt: 19
+transport_type - đi bộ: 13
+transport_type - taxi: 18
+transport_type - xe đạp: 14
+transport_type - tàu điện: 12
+transport_type - ô tô: 15
+transport_type - xe máy: 20
+Đặt vé:
+timeAt - <timeAt>: 111
+delay_duration - <duration>: 118
+departure_location - <province>: 126
+arrival_location - <province>: 64
+arrival_location - <airport>: 63
+number_of_passengers - 7: 9
+number_of_passengers - 9: 21
+number_of_passengers - 4: 10
+number_of_passengers - 13: 13
+number_of_passengers - 14: 17
+number_of_passengers - 16: 9
+number_of_passengers - 1: 8
+number_of_passengers - 15: 20
+number_of_passengers - 3: 11
+number_of_passengers - 12: 10
+number_of_passengers - 6: 9
+number_of_passengers - 2: 12
+number_of_passengers - 5: 8
+number_of_passengers - 11: 12
+number_of_passengers - 10: 5
+number_of_passengers - 8: 8
+payment_method - tiền mặt: 25
+payment_method - thẻ tín dụng: 13
+payment_method - momo: 19
+payment_method - thẻ ngân hàng: 28
+payment_method - chuyển khoản ngân hàng: 12
+payment_method - vnpay: 21
+type - hút thuốc: 29
+type - cho phép thú cưng: 19
+type - thương gia: 24
+type - thường: 22
+type - vip: 12
+type - trẻ em: 19
+transport_type - ca nô: 20
+transport_type - xe buýt: 20
+transport_type - ô tô: 12
+transport_type - xuồng: 16
+transport_type - máy bay: 13
+transport_type - tàu thủy: 14
+transport_type - tàu điện: 17
+transport_type - tàu hỏa: 20
+departure_timeAt - <timeAt>: 130
+Gợi ý phim:
+timeAt - trưa ngày <day_int>: 25
+timeAt - <hour_timeAt>: 36
+timeAt - tối ngày <day_int>: 19
+timeAt - chiều ngày <day_int>: 18
+timeAt - sáng ngày <day_int>: 29
+delay_duration - <duration>: 125
+continuous_duration - <duration>: 112
+actor - <actor>: 106
+genre - chiến tranh: 11
+genre - kinh dị: 23
+genre - siêu anh hùng: 8
+genre - kịch tính: 13
+genre - thiếu nhi: 19
+genre - hài: 8
+genre - tình cảm: 21
+genre - viễn tưởng: 19
+genre - tội phạm: 13
+genre - hoạt hình: 6
+genre - ca nhạc: 6
+genre - lịch sử: 11
+genre - tài liệu: 18
+genre - viễn tây: 13
+genre - hành động: 16
+language - tiếng anh: 22
+language - tiếng hàn: 20
+language - tiếng việt: 20
+language - tiếng nhật: 18
+language - tiếng trung: 24
+language - tiếng tây ban nha: 17
+language - tiếng đức: 12
+rating - <rating_int>: 117
+movie_duration - <hour_duration>: 123
+gợi ý địa điểm:
+timeAt - <timeAt>: 118
+delay_duration - <hour_duration>: 120
+activity - đọc sách: 19
+activity - ăn cơm: 12
+activity - giải trí: 13
+activity - dã ngoại: 15
+activity - mua sắm: 10
+activity - họp nhóm: 22
+activity - xem phim: 7
+activity - tự học: 24
+activity - uống cafe: 14
+activity - thể thao: 29
+activity - làm việc: 11
+activity - vui chơi: 24
+activity - học tập: 10
+activity - tập gym: 14
+activity - đi chợ: 24
+activity - bơi lội: 4
+activity - ăn uống: 18
+activity - hẹn hò: 18
+ocassion - gặp mặt: 38
+ocassion - kỉ niệm: 33
+ocassion - sinh nhật: 39
+area - khu <university>: 20
+area - đoạn <street>: 15
+area - gần phố <street>: 14
+area - Times City: 14
+area - gần nhà: 15
+area - <province>: 17
+area - phố <street>: 11
+area - <district>: 9
+area - gần <place>: 17
+distance - <int> km: 115
+Xóa lịch:
+timeAt - <timeAt>: 132
+delay_duration - <hour_int> tiếng <min_int> phút: 76
+delay_duration - <min_int> phút: 66
+event - họp: 18
+event - làm việc: 19
+event - gặp bạn bè: 13
+event - học tập: 23
+event - ăn uống: 19
+event - đi cafe: 16
+event - gặp đối tác: 19
+event - đi chơi: 20
+event - xem phim: 17
+event - đi leo núi: 14
+event - đi dã ngoại: 12
+event_timeAt - tháng trước: 36
+event_timeAt - tháng tới: 25
+event_timeAt - <month_timeAt>: 29
+event_timeAt - <timeAt>: 40
+Liên hệ:
+timeAt - <timeAt>: 39
+timeAt - ngày mai: 36
+timeAt - ngày kia: 26
+timeAt - ngay bây giờ: 37
+delay_duration - <duration>: 130
+continuous_duration - <duration>: 140
+phone_number - <phone_number>: 134
+email - minh.vd@sis.hust.edu.vn: 38
+email - minh@yahoo.com: 32
+email - vuducminh@gmail.com: 36
+email - khanhlt@gmail.com: 28
+person - <human_name>: 26
+person - sếp <human_name>: 31
+person - bạn <human_name>: 23
+person - mẹ tôi: 22
+person - bố tôi: 19
+đặt đồ ăn:
+timeAt - ngay bây giờ: 35
+timeAt - ngày mai: 43
+timeAt - <timeAt>: 48
+delay_duration - <duration>: 123
+dish_name - <dish_name>: 60
+dish_name - <desert>: 62
+meal - bữa lỡ: 21
+meal - bữa tối: 24
+meal - điểm tâm: 14
+meal - bữa trưa: 19
+meal - ăn khuya: 21
+meal - bữa sáng: 13
+number_of_serving - <int>: 112
+condition - nóng: 44
+condition - nguội: 43
+condition - lạnh: 41
+occasion - sinh nhật: 43
+occasion - ăn tiệc: 39
+occasion - liên hoan: 37
+location - <address>: 117
+Hỏi thông tin:
+timeAt - ngay bây giờ: 28
+timeAt - <timeAt>: 30
+timeAt - ngày mai: 41
+timeAt - ngày kia: 37
+delay_duration - <duration>: 127
+keyword - giá vàng: 21
+keyword - lịch chiếu phim: 13
+keyword - lịch phát sóng: 31
+keyword - thời tiết: 12
+keyword - lịch thi đấu bóng đá: 21
+keyword - giá xăng: 19
+keyword - thời sự: 14
+keyword - cổ phiếu: 18
+keyword - lịch học: 25
+keyword_timeAt - tháng sau: 28
+keyword_timeAt - <timeAt>: 20
+keyword_timeAt - hôm qua: 19
+keyword_timeAt - ngày kia: 26
+keyword_timeAt - ngay bây giờ: 25
+keyword_timeAt - ngày mai: 30
+keyword_timeAt - tháng trước: 24
