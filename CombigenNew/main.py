@@ -6,19 +6,19 @@ from synonym_processor import update_json_with_synonyms
 def main():
     excel_file_path = "slu.xlsx"
     intents = ["Tra cứu thời tiết",
-"Tra cứu lịch",
-"Bật nhạc",
-"Tra công thức nấu ăn",
-"Đặt lịch",
-"Gọi taxi",
-"tra cứu đường đi",
-"Đặt vé",
-"Gợi ý phim",
-"gợi ý địa điểm",
-"Xóa lịch",
-"Liên hệ",
-"đặt đồ ăn",
-"Hỏi thông tin"]
+        "Tra cứu lịch",
+        "Bật nhạc",
+        "Tra công thức nấu ăn",
+        "Đặt lịch",
+        "Gọi taxi",
+        "tra cứu đường đi",
+        "Đặt vé",
+        "Gợi ý phim",
+        "gợi ý địa điểm",
+        "Xóa lịch",
+        "Liên hệ",
+        "đặt đồ ăn",
+        "Hỏi thông tin"]
 
     # Call the generate_and_save_json function for all intents
     generate_and_save_json(excel_file_path, intents)
